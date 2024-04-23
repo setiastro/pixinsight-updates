@@ -7,7 +7,7 @@
   </description>
   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
     <package fileName="NBtoRGBStars_v1.1.js.zip"
-             sha1="22a25dfbbe883caaeeb753312cf50e0b0d475bc1"
+             sha1="dc7919ac627fac221dec2a46084205f5602e77b7"
              type="script"
              releaseDate="20240422">
       <title>
