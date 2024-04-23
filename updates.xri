@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+  <description>
+    <p>
+      This is the repository for PixInsight scripts by setiastro.com, featuring the NB to RGB Star Combination script and others.
+    </p>
+  </description>
+  <platform os="all" arch="noarch" version="1.8.8:1.8.8">
+    <package fileName="https://github.com/setiastro/pixinsight-updates/raw/main/NBtoRGBStars_v1.1.js.zip"
+             sha1="22a25dfbbe883caaeeb753312cf50e0b0d475bc1"
+             type="script"
+             releaseDate="20240422">
+      <title>
+        NB to RGB Stars v1.1 Script
+      </title>
+      <description>
+        <p>
+          This script performs a combination of NB stars only images to produce a realistic RGB star image, including optional star stretch features.
+        </p>
+      </description>
+    </package>
+  </platform>
+</xri>
