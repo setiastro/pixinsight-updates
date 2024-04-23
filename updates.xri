@@ -6,7 +6,7 @@
     </p>
   </description>
   <platform os="all" arch="noarch" version="1.8.8:1.8.9.999">
-    <package fileName="NBtoRGBStars_v1.1.js.zip"
+    <package fileName="https://github.com/setiastro/pixinsight-updates/raw/main/NBtoRGBStars_v1.1.js.zip"
              sha1="22a25dfbbe883caaeeb753312cf50e0b0d475bc1"
              type="script"
              releaseDate="20240422">
