@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="NBtoRGBStars_v1.2.js.zip" sha1="89aa143b0e91ea5a1462c421e351803bf91ba1a5" type="script" releaseDate="20240422">
+      <package fileName="NBtoRGBStars_v1.2.js.zip" sha1="13234201c6ab848740a8be3367c4070c8a988163" type="script" releaseDate="20240423">
          <title>
         NB to RGB Stars Script
       </title>
