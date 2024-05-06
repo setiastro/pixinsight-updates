@@ -2,20 +2,20 @@
 <xri version="1.0">
    <description>
       <p>
-      This is the repository for PixInsight scripts by setiastro.com, featuring the NB to RGB Star Combination script and others.
+      This is the repository for PixInsight scripts by setiastro.com, featuring the NB to RGB Star Combination script Statistical Stretch script and others.
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="NBtoRGBStars_v1.2.4.js.zip" sha1="2ffd3cace85ca402b4ad911baec0dff68c6ff68d" type="script" releaseDate="20240426">
+      <package fileName="SetiAstroScripts05.06.2024.zip" sha1="aff060cfad39c5293afb9ace3021097385057bd5" type="script" releaseDate="20240506">
          <title>
-        NB to RGB Stars Script v1.2.4 Updated Digital Signatures
+        Statistical Stretch Release V1.0
       </title>
          <description>
             <p>
-          This script performs a combination of NB stars only images to produce a realistic RGB star image, including optional star stretch features.
+          Releasing my Statistical Stretch script which will dynamically determine the stretch based on the image statistics.
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-04-26T19:20:44.611Z" encoding="Base64">oTibbVYU/dsBAIl+tmV/urEVA5aUtHApkw630goc/QLmG8I6IJ5n93XrBmlx8SZaVLpCILfFS90tMucHdX8sCg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-06T15:34:08.072Z" encoding="Base64">dxlW97BM8OIouJ5Q+b7r/lGArItWVeNcWj4qep6mAmNhoORtUUGT1CGI158AyK0bFS9RiTKkfbRT34MWdF07DA==</Signature>
