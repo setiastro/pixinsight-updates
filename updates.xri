@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.06.2024.zip" sha1="aff060cfad39c5293afb9ace3021097385057bd5" type="script" releaseDate="20240506">
+      <package fileName="SetiAstroScripts05.08.2024.zip" sha1="b6f7b78621d2908d3352e5e5fd6263ab3b6e840d" type="script" releaseDate="20240508">
          <title>
-        Statistical Stretch Release V1.0
+        Statistical Stretch Release V1.2
       </title>
          <description>
             <p>
-          Releasing my Statistical Stretch script which will dynamically determine the stretch based on the image statistics.
+          Update to my Statistical Stretch Script to fix an issue in color images where some black point clipping occured.  This also adds the feature to Normalize the image or not which was hardcoded to always run in V1.0.
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-06T15:34:08.072Z" encoding="Base64">dxlW97BM8OIouJ5Q+b7r/lGArItWVeNcWj4qep6mAmNhoORtUUGT1CGI158AyK0bFS9RiTKkfbRT34MWdF07DA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-08T14:34:15.984Z" encoding="Base64">/PpthDyVjSrhjpEV343R3HDy1POZxP17YN+Rp26TjB4PJ1E4wzLEfJO0WyOIJdh8x9aEzBfENJOSzlJmalJzBA==</Signature>
