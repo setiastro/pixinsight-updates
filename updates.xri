@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.10.2024.zip" sha1="8cda4e7ca0a9248bf18bb57d263d9aa84e551d4c" type="script" releaseDate="20240510">
+      <package fileName="SetiAstroScripts05.11.2024.zip" sha1="1d777362b089b7c40ff1522517bfe3a8797c8f85" type="script" releaseDate="20240511">
          <title>
-        Statistical Stretch Release V1.3
+        Statistical Stretch Release V1.3.1
       </title>
          <description>
             <p>
-          Update to include a Preview.  This allows the user to tweak their settings, refresh the preview, and then when satisfied can click Execute to apply the changes to their image.
+          Update to have automatic resize of the preview and now reopens the dialog for drag and drop of the instance icon or if blue square is clicked.
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-10T13:08:18.398Z" encoding="Base64">li1xYgTBJxWftW2xWS1fBndTVRnhkYo2ejNYKJbe7nWvDc6+kpRU7T2CSUOU3HZ4w49AjTwfU5VEG9H6OmR7Dg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-11T18:40:41.205Z" encoding="Base64">Y1gVuHtve844bZ1ELXAwdt/gnSEA5Z39etoRyjIN7LG/AWToMU3cUi0T5urmcol5lJyZK/MHdnWYrhjxvjY8AQ==</Signature>
