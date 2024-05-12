@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.12.2024.zip" sha1="3b10d6b27b96a49407650a4059d593123ef3e1f8" type="script" releaseDate="20240511">
+      <package fileName="SetiAstroScripts05.12.2024.zip" sha1="3b10d6b27b96a49407650a4059d593123ef3e1f8" type="script" releaseDate="20240512">
          <title>
-        Statistical Stretch Release V1.3.2
+        Statistical Stretch Release V1.3.3
       </title>
          <description>
             <p>
-          Update to have automatic resize of the preview and now reopens the dialog for drag and drop of the instance icon or if blue square is clicked, if you don&apos;t want the dialog to open, instead change the openDialogbox parameter to false.  It will then run immediately with drap and drop/blue square instead of opening the dialog.
+          Update to add various zoom level options as well as the dialog opening defaulting the to active window so you shouldn&apos;t have to make the initial selection.
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-12T19:44:48.655Z" encoding="Base64">VuWWaODYm12RNO16caeYUaX7S+keeM9Zdh/Ck3MwnnTL/zQCcRDZWBXTdIhUBknEOiw9rDCQZbtKLo9qUJnBBQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-12T19:48:20.044Z" encoding="Base64">hJjErUJPS70Zccdc1E1JGn8l42VcKJbK9ngPgh8wIccer/a8ZrCse50Q0kYfaiY/9WsTFT8RhySsMHOfamKKAA==</Signature>
