@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.11.2024_2.zip" sha1="fbd9faf2b2285a0f6d41a0a266c516323a2f5703" type="script" releaseDate="20240511">
+      <package fileName="SetiAstroScripts05.12.2024.zip" sha1="3b10d6b27b96a49407650a4059d593123ef3e1f8" type="script" releaseDate="20240511">
          <title>
         Statistical Stretch Release V1.3.2
       </title>
@@ -18,4 +18,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-11T22:15:42.608Z" encoding="Base64">pxUp7b9m86CyprglhY9Pi94XFPG6nINebviPHqf0/80vyAvA+HvIfH/hbU9tckBLOUQGEWyrvK97vOWcRau+AA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-12T19:44:48.655Z" encoding="Base64">VuWWaODYm12RNO16caeYUaX7S+keeM9Zdh/Ck3MwnnTL/zQCcRDZWBXTdIhUBknEOiw9rDCQZbtKLo9qUJnBBQ==</Signature>
