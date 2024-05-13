@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.12.2024.zip" sha1="3b10d6b27b96a49407650a4059d593123ef3e1f8" type="script" releaseDate="20240512">
+      <package fileName="SetiAstroScripts05.13.2024.zip" sha1="8bdf5c2c7a267be201ae6e2a3e70491ab788ba22" type="script" releaseDate="20240513">
          <title>
-        Statistical Stretch Release V1.3.3
+        Statistical Stretch Release V1.4
       </title>
          <description>
             <p>
-          Update to add various zoom level options as well as the dialog opening defaulting the to active window so you shouldn&apos;t have to make the initial selection.
+          Update includes: Linked or UnLinked Stretch Option, turning off STF automatically (avoid the white screen if you had a previous STF on the image), and minor console text and under the hood changes.
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-12T19:48:20.044Z" encoding="Base64">hJjErUJPS70Zccdc1E1JGn8l42VcKJbK9ngPgh8wIccer/a8ZrCse50Q0kYfaiY/9WsTFT8RhySsMHOfamKKAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-13T15:21:02.958Z" encoding="Base64">ykt2ayMfrBV3pJytO8s8UsTdKDpl2Zi4dvQk2sbCpbNsROqWlmHFtaIf+5G9qs0GBWhkbA0Rkz7dir70Vo0ACg==</Signature>
