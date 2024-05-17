@@ -6,18 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.14.2024.zip" sha1="d30b0c7effc18534fdc672e74fc2bb7bee72b6af" type="script" releaseDate="20240514">
+      <package fileName="SetiAstroScripts05.17.2024.zip" sha1="541e92fdee4e282a81d6995e97f0c5ac7aac9415" type="script" releaseDate="20240517">
          <title>
-        Statistical Stretch Release V1.4.1
+        SetiAstro Menu creation to store scripts
       </title>
          <description>
             <p>
-          Update includes: Linked or UnLinked Stretch Option, turning off STF automatically (avoid the white screen if you had a previous STF on the image), and minor console text and under the hood changes.
-
-The script will not auto stretch the preview upon opening as this was taking considerable time on some computers.  Adjust your parameters and hit preview refresh to see the stretched result in the preview.
+          Creation of the SetiAstro location under scripts.  All my scripts can now be found under Scripts -&gt; SetiAstro
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-14T13:19:25.663Z" encoding="Base64">caSJ+zS9H8QkKCDwgNWRERE/ZzmPSyQtNx33NHU1PJ1h1GVoeY5B0V/ugoFqp2UCTMHZg0X7Ydii99JLkXiKBA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-17T20:11:05.143Z" encoding="Base64">ok9kVYrE5qDmcIZ3afLtPHGR0rPZVOsAErk7GEXRmLSEcwxB4mtD+D09IPji3pKkJarjiHMZDXB+wMH13D6lBA==</Signature>
