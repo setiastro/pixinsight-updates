@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.17.2024.zip" sha1="541e92fdee4e282a81d6995e97f0c5ac7aac9415" type="script" releaseDate="20240517">
+      <package fileName="SetiAstroScripts05.18.2024.zip" sha1="5a9bf75d2bb28787dbbd19aa93fd6b4ea602c2c9" type="script" releaseDate="20240518">
          <title>
-        SetiAstro Menu creation to store scripts
+        Statistical Stretch V1.4.2
       </title>
          <description>
             <p>
-          Creation of the SetiAstro location under scripts.  All my scripts can now be found under Scripts -&gt; SetiAstro
+          Re-arranged the dialog into a two column format to better fit lower resolution monitors where the bottom of the script was dropping below the lower portion of the screen.
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-17T20:11:05.143Z" encoding="Base64">ok9kVYrE5qDmcIZ3afLtPHGR0rPZVOsAErk7GEXRmLSEcwxB4mtD+D09IPji3pKkJarjiHMZDXB+wMH13D6lBA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-18T13:20:18.239Z" encoding="Base64">/9CtvVuff22l5JGrLmsq+QfF9a3teSU0jArar8ksI6oJHgvsMG5yoKEaj58+4zTS/ubqQqO5QMbnQplIpv82Dg==</Signature>
