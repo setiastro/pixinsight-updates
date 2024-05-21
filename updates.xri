@@ -6,19 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.20.2024.zip" sha1="cc52fe829da1c47aeb82d341dd24305335975d62" type="script" releaseDate="20240520">
+      <package fileName="SetiAstroScripts05.21.2024.zip" sha1="5c92fba9e2fedb7268ad6e8b90589c98b6b1315d" type="script" releaseDate="20240521">
          <title>
-        Continuum Subtraction Utility V1.0
+        Continuum Subtraction Utility V1.1
       </title>
          <description>
             <p>
           This script fully automates the continuum subtraction process.  You choose your emission line images and your continuum images (which you can use either a single RGB image or Red/Green mono images) and the script will go through the whole process including the subtraction itself, stretching via a statistical stretch algorithm to the non-linear state, then subtracting back off the median.  This leaves a pure non-linear set of continuum subtracted images.
 </p>
             <p>
-There are some tooltips on when to use Starless vs Starry images and well as instructions on what needs to be done on your main images first (removing gradients, stacking artifacts, etc)
+There are some tooltips on when to use Starless vs Starry images and well as instructions on what needs to be done on your main images first (removing gradients, stacking artifacts, etc).  Added message box alerts if you try using the wrong color spaces in the dropdowns or do not have sufficient images selected to process.
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-20T17:49:49.875Z" encoding="Base64">YzakCqlURG1+zEUnJQ5IWzyQpgjTkha+fkGNFzMZj1zHjlrTLcRAJALdxOwLYP1n4ByfWbzURq8gfaRxLxiJCg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-21T15:52:47.783Z" encoding="Base64">hrMNCFJa3Fu9ACCDVzIKcm7r/VxL0hHKIZ/AucGFi9wwm6obkNgqiF+J6enJ/c/EbzLgxbsQe7HECbFRPbTBBA==</Signature>
