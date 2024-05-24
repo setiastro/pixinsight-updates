@@ -6,19 +6,22 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.23.2024.zip" sha1="0c6eff78e8856193d19b9d9da49099daa2fcd4fd" type="script" releaseDate="20240523">
+      <package fileName="SetiAstroScripts05.24.2024.zip" sha1="10721c741909e43780846948d11b6355f2afea6d" type="script" releaseDate="20240524">
          <title>
-        Continuum Subtraction Utility V1.2
+        Continuum Subtraction Utility V1.3
       </title>
          <description>
             <p>
-	Added an optional feature to apply noise reduction during the process.  This will apply either NoiseXterminator or GraXpertDeNoise immediately after the linear subtraction and prior to stretching.  Which is the ideal time to perform this reduction.  You will have had to already installed either NoiseX or the GraXpert process.  Either from: https://www.rc-astro.com/software/nxt/ or from: http://www.deepskyforge.com/index.html
+	V1.3 Added an optional feature to output the Linear image.  This will outputs the image immediately after the linear subtraction (and after the optional noise reduction if selected).  It is highly recommended you stretch the image into a non-linear state and subtract off the median via ($T-med($T)) prior to adding it back into your main image.
 </p>
             <p>
-          This script fully automates the continuum subtraction process.  You choose your emission line images and your continuum images (which you can use either a single RGB image or Red/Green mono images) and the script will go through the whole process including the subtraction itself, stretching via a statistical stretch algorithm to the non-linear state, then subtracting back off the median.  This leaves a pure non-linear set of continuum subtracted images.
+	V1.2 Added an optional feature to apply noise reduction during the process.  This will apply either NoiseXterminator or GraXpertDeNoise immediately after the linear subtraction and prior to stretching.  Which is the ideal time to perform this reduction.  You will have had to already installed either NoiseX or the GraXpert process.  Either from: https://www.rc-astro.com/software/nxt/ or from: http://www.deepskyforge.com/index.html
+</p>
+            <p>
+          V1 This script fully automates the continuum subtraction process.  You choose your emission line images and your continuum images (which you can use either a single RGB image or Red/Green mono images) and the script will go through the whole process including the subtraction itself, stretching via a statistical stretch algorithm to the non-linear state, then subtracting back off the median.  This leaves a pure non-linear set of continuum subtracted images.
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-23T15:09:55.561Z" encoding="Base64">ze2JqvPEFUPhf3kpXTEVpu6Ci6I12jx0/tIN4O/i2WgGX4AujE7jqju1MElcyIF8eXkM0CUHY6oevKfPE6HFCQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-24T12:28:38.712Z" encoding="Base64">kyTQ3lO/3VAsygbJLeswizoCRTWJ/TDUUJkoW5tWa3aizWzcWRad4Tt/d867EQYCve6xkQrrcG9rFKHpyydDDQ==</Signature>
