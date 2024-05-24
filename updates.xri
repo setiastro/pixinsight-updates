@@ -6,13 +6,13 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.24.2024.zip" sha1="10721c741909e43780846948d11b6355f2afea6d" type="script" releaseDate="20240524">
+      <package fileName="SetiAstroScripts05.24.2024_2.zip" sha1="2a937179bb6af1444c8246957d139538f9515d24" type="script" releaseDate="20240524">
          <title>
-        Continuum Subtraction Utility V1.3
+        Continuum Subtraction Utility V1.3.1
       </title>
          <description>
             <p>
-	V1.3 Added an optional feature to output the Linear image.  This will outputs the image immediately after the linear subtraction (and after the optional noise reduction if selected).  It is highly recommended you stretch the image into a non-linear state and subtract off the median via ($T-med($T)) prior to adding it back into your main image.
+	V1.3 Added an optional feature to output the Linear image.  This will outputs the image immediately after the linear subtraction (and after the optional noise reduction if selected).  It is highly recommended you stretch the image into a non-linear state and subtract off the median via ($T-med($T)) prior to adding it back into your main image.     V1.3.1 Correct color space to ensure output is a grayscale image.
 </p>
             <p>
 	V1.2 Added an optional feature to apply noise reduction during the process.  This will apply either NoiseXterminator or GraXpertDeNoise immediately after the linear subtraction and prior to stretching.  Which is the ideal time to perform this reduction.  You will have had to already installed either NoiseX or the GraXpert process.  Either from: https://www.rc-astro.com/software/nxt/ or from: http://www.deepskyforge.com/index.html
@@ -24,4 +24,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-24T12:28:38.712Z" encoding="Base64">kyTQ3lO/3VAsygbJLeswizoCRTWJ/TDUUJkoW5tWa3aizWzcWRad4Tt/d867EQYCve6xkQrrcG9rFKHpyydDDQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-24T16:14:14.679Z" encoding="Base64">zMfqrwIfyK5k+jK0AtZbhFFxRoWeXwpinojJLwOGU/UsOwAVbSf2M8YbUNfYIMpCtxHHs49WHiUHb/qssufNBA==</Signature>
