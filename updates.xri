@@ -2,26 +2,20 @@
 <xri version="1.0">
    <description>
       <p>
-      This is the repository for PixInsight scripts by setiastro.com, featuring the NB to RGB Star Combination script Statistical Stretch script and others.
+      This is the repository for PixInsight scripts by setiastro.com, featuring the NB to RGB Star Combination script Statistical Stretch script, Continuum Subtraction, and others.
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.24.2024_2.zip" sha1="2a937179bb6af1444c8246957d139538f9515d24" type="script" releaseDate="20240524">
+      <package fileName="SetiAstroScripts05.26.2024.zip" sha1="d32cb5bb6f491582aa4d70cab0548c4d6428ec4b" type="script" releaseDate="20240526">
          <title>
-        Continuum Subtraction Utility V1.3.1
+        Find Background Script V1.0
       </title>
          <description>
             <p>
-	V1.3 Added an optional feature to output the Linear image.  This will outputs the image immediately after the linear subtraction (and after the optional noise reduction if selected).  It is highly recommended you stretch the image into a non-linear state and subtract off the median via ($T-med($T)) prior to adding it back into your main image.     V1.3.1 Correct color space to ensure output is a grayscale image.
-</p>
-            <p>
-	V1.2 Added an optional feature to apply noise reduction during the process.  This will apply either NoiseXterminator or GraXpertDeNoise immediately after the linear subtraction and prior to stretching.  Which is the ideal time to perform this reduction.  You will have had to already installed either NoiseX or the GraXpert process.  Either from: https://www.rc-astro.com/software/nxt/ or from: http://www.deepskyforge.com/index.html
-</p>
-            <p>
-          V1 This script fully automates the continuum subtraction process.  You choose your emission line images and your continuum images (which you can use either a single RGB image or Red/Green mono images) and the script will go through the whole process including the subtraction itself, stretching via a statistical stretch algorithm to the non-linear state, then subtracting back off the median.  This leaves a pure non-linear set of continuum subtracted images.
+Script to automatically find a background preview region of interest.  This utilizes a very robust algorithm based on the image&apos;s and region&apos;s statistics and then follows gradient descent to find the optimal background preview.  This then can be used for BackgroundNeutralization, ColorCalibration, SPCC, etc.  There are tooltips when you hover the mouse over the various options, but even in the default state it is programmed to be very robust to provide a near optimal region of interest.
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-24T16:14:14.679Z" encoding="Base64">zMfqrwIfyK5k+jK0AtZbhFFxRoWeXwpinojJLwOGU/UsOwAVbSf2M8YbUNfYIMpCtxHHs49WHiUHb/qssufNBA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-26T12:28:01.830Z" encoding="Base64">yugNqvbZpggcA+mnuFVp4GxNEq3GfJ0cv86VydOPguXze9M+ztVWnQQfWLHfZPztyBZwKlORhcfEnjfm+UdSDw==</Signature>
