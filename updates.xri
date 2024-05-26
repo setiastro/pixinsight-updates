@@ -6,13 +6,13 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.26.2024_2.zip" sha1="5f34326f13e8725221150388d0852bf1c31d99d8" type="script" releaseDate="20240526">
+      <package fileName="SetiAstroScripts05.26.2024_3.zip" sha1="d4e1484f97c68a4c754d04007da8f88a733a2c1c" type="script" releaseDate="20240526">
          <title>
-        Find Background Script V1.0
+        Find Background Script V1.0.1
       </title>
          <description>
             <p>
-Script to automatically find a background preview region of interest.  This utilizes a very robust algorithm based on the image&apos;s and region&apos;s statistics and then follows gradient descent to find the optimal background preview.  This then can be used for BackgroundNeutralization, ColorCalibration, SPCC, etc.  There are tooltips when you hover the mouse over the various options, but even in the default state it is programmed to be very robust to provide a near optimal region of interest.
+Script to automatically find a background preview region of interest.  This utilizes a very robust algorithm based on the image&apos;s and region&apos;s statistics and then follows gradient descent to find the optimal background preview.  This then can be used for BackgroundNeutralization, ColorCalibration, SPCC, etc.  There are tooltips when you hover the mouse over the various options, but even in the default state it is programmed to be very robust to provide a near optimal region of interest.  V1.0.1 Fixes an issue where the script was not finding the background on a different image if you selected a different image in the dropdown.
         </p>
             <p>
 NBtoRGBstars updated to include a slider for the Ha to OIII green ratio.
@@ -24,4 +24,4 @@ Continuum Subtraction Utility updated to allow user to choose which GraXpertDeno
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-26T13:51:36.995Z" encoding="Base64">w1YV2Dk+eulSkgnmyhhCcc1TxzPsz3NWjbDTiqJzJBPK0rRjMCNYhj++UESJWabNOXHuIIj5fZ3gAi4RAWRNAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-26T21:40:57.352Z" encoding="Base64">Za41iJ9sekUOrYI+XuMudlqYTOjXZnPUoD7OI8QQJK4LDLw3Vt4ocHpPlCHaBAEIIH3Mpp0qoKBoQUVuOw6CBg==</Signature>
