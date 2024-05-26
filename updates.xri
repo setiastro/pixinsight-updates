@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.26.2024.zip" sha1="d32cb5bb6f491582aa4d70cab0548c4d6428ec4b" type="script" releaseDate="20240526">
+      <package fileName="SetiAstroScripts05.26.2024_2.zip" sha1="4dc745b2f4b78268a0f9e92b45048c88e0637c87" type="script" releaseDate="20240526">
          <title>
         Find Background Script V1.0
       </title>
@@ -14,8 +14,14 @@
             <p>
 Script to automatically find a background preview region of interest.  This utilizes a very robust algorithm based on the image&apos;s and region&apos;s statistics and then follows gradient descent to find the optimal background preview.  This then can be used for BackgroundNeutralization, ColorCalibration, SPCC, etc.  There are tooltips when you hover the mouse over the various options, but even in the default state it is programmed to be very robust to provide a near optimal region of interest.
         </p>
+            <p>
+NBtoRGBstars updated to include a slider for the Ha to OIII green ratio.
+        </p>
+            <p>
+Continuum Subtraction Utility updated to allow user to choose which GraXpertDenoise AI model to use.
+        </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-26T12:28:01.830Z" encoding="Base64">yugNqvbZpggcA+mnuFVp4GxNEq3GfJ0cv86VydOPguXze9M+ztVWnQQfWLHfZPztyBZwKlORhcfEnjfm+UdSDw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-26T13:42:21.230Z" encoding="Base64">6mvjAVR4kyIkVCaaD4jlgsY96hYzERJlIF5Vmo3bnmJfYmh0cmgxozpPziZS614G97OU5dL6FFVqZNbSxJonCw==</Signature>
