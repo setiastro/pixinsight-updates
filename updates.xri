@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.26.2024_2.zip" sha1="4dc745b2f4b78268a0f9e92b45048c88e0637c87" type="script" releaseDate="20240526">
+      <package fileName="SetiAstroScripts05.26.2024_2.zip" sha1="5f34326f13e8725221150388d0852bf1c31d99d8" type="script" releaseDate="20240526">
          <title>
         Find Background Script V1.0
       </title>
@@ -24,4 +24,4 @@ Continuum Subtraction Utility updated to allow user to choose which GraXpertDeno
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-26T13:42:21.230Z" encoding="Base64">6mvjAVR4kyIkVCaaD4jlgsY96hYzERJlIF5Vmo3bnmJfYmh0cmgxozpPziZS614G97OU5dL6FFVqZNbSxJonCw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-05-26T13:51:36.995Z" encoding="Base64">w1YV2Dk+eulSkgnmyhhCcc1TxzPsz3NWjbDTiqJzJBPK0rRjMCNYhj++UESJWabNOXHuIIj5fZ3gAi4RAWRNAg==</Signature>
