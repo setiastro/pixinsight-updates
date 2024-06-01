@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.30.2024.zip" sha1="9d82c9998dd249a20ad78ab9c694ae85c3948d90" type="script" releaseDate="20240530">
+      <package fileName="SetiAstroScripts05.31.2024.zip" sha1="4afc2cd6c4556e18561babe5e2d7c9e31eed04c6" type="script" releaseDate="20240531">
          <title>
-        NBtoRGB Stars V1.4
+        Statistical Stretch V1.5
       </title>
          <description>
             <p>
-NBtoRGB Stars V1.4 now has a standalone dropdown if you are using an OSC with a dual NB filter.  This will automatically extract the two channels and perform the star combination.
+The slider for number of iterations has been removed and replaced with a checkbox to have Auto Convergence.  Even when checked almost all stretches will only require 1 iteration.  If there is a large shift in the image due to Normalization then a 2nd iteration will be triggered to achieve the desired Target Median that the user has selected.
         </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-05-30T20:53:00.204Z" encoding="Base64">eUKuzgW6UngD/sqcx56MiTNpaCLjySTWeIVeI0/t48fL2Z45ETcEhnc8lqh6789UVrCl9ISgEBTNJD8+qxZvCg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-01T00:08:19.760Z" encoding="Base64">AMDs7D2c5R5KX2ANcY9anUfVTb5PqkV67V1sFQs7TUVuDWFVDBu1gTxeRi8qYVDVSaVMyXF9G3w4xMDCBOCGCA==</Signature>
