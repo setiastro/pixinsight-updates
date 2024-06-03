@@ -6,16 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.31.2024.zip" sha1="4afc2cd6c4556e18561babe5e2d7c9e31eed04c6" type="script" releaseDate="20240531">
+      <package fileName="SetiAstroScripts06.03.2024.zip" sha1="b5c222d90430e9e7c2f81661a165edf27f95b5b5" type="script" releaseDate="20240603">
          <title>
-        Statistical Stretch V1.5
+        Find Background V1.1
       </title>
          <description>
             <p>
-The slider for number of iterations has been removed and replaced with a checkbox to have Auto Convergence.  Even when checked almost all stretches will only require 1 iteration.  If there is a large shift in the image due to Normalization then a 2nd iteration will be triggered to achieve the desired Target Median that the user has selected.
-        </p>
+Updated to include a User Defined Search Region.  This will open a preview in which you can Shift + Click and drag a rectangle to define a User Defined Search Region.  This is perfect for situations where you were not able to remove the gradient fully, want to avoid a big dust mote, avoid a dark nebula, or any other reason you want to restrict the search to a defined area of your image.  
+        	</p>
+            <p>
+If using the User Defined Search Region, I recommend reducing the Number of Starting Points since you are now only looking at a smaller portion of the main image or doing a Slow Search in the new Defined Region.
+		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-01T00:08:19.760Z" encoding="Base64">AMDs7D2c5R5KX2ANcY9anUfVTb5PqkV67V1sFQs7TUVuDWFVDBu1gTxeRi8qYVDVSaVMyXF9G3w4xMDCBOCGCA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-03T13:40:18.534Z" encoding="Base64">eLS5rZa95KWe3b7yfFwbuEwGn2u3iisrjTKIu7cXUWr8lyLfYko67xBKiS7RTwV/YpyGHKNSQ+6Cm+gDoYlUBw==</Signature>
