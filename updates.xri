@@ -6,9 +6,9 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.03.2024.zip" sha1="b5c222d90430e9e7c2f81661a165edf27f95b5b5" type="script" releaseDate="20240603">
+      <package fileName="SetiAstroScripts06.03.2024_2.zip" sha1="d265308106541711ee1770e0ce8561c48debb0cc" type="script" releaseDate="20240603">
          <title>
-        Find Background V1.1
+        Find Background V1.1.1
       </title>
          <description>
             <p>
@@ -17,8 +17,11 @@ Updated to include a User Defined Search Region.  This will open a preview in wh
             <p>
 If using the User Defined Search Region, I recommend reducing the Number of Starting Points since you are now only looking at a smaller portion of the main image or doing a Slow Search in the new Defined Region.
 		</p>
+            <p>
+Statistical Stretch V1.5.1 and Find Background V1.1.1 improved math equations to speed up processing.
+		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-03T13:40:18.534Z" encoding="Base64">eLS5rZa95KWe3b7yfFwbuEwGn2u3iisrjTKIu7cXUWr8lyLfYko67xBKiS7RTwV/YpyGHKNSQ+6Cm+gDoYlUBw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-03T16:49:20.291Z" encoding="Base64">RNL6K2SP64b1B1uqufhLwqerOvpbb5zaHKLieLvu8EjBeauaRCF2PsqDp6/t6mJja1UUuBSrUyho2cGfX086AQ==</Signature>
