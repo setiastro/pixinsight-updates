@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.04.2024.zip" sha1="0b92ad0d60704a2a88b1f94c0828544c1df541f6" type="script" releaseDate="20240604">
+      <package fileName="SetiAstroScripts06.04.2024_2.zip" sha1="ee7d9022cb63de2fa1c971d10190c64d48f3a0fc" type="script" releaseDate="20240604">
          <title>
-        Star Stretch V2.2
+        Find Background V1.2
       </title>
          <description>
             <p>
-Updated to include a Preview to allow the user to view the stretch prior to committing to the main image.  Please utilize the Preview Refresh button to refresh the preview after making adjustments to the numeric sliders.  The Select Image dropdown now also defaults to the active window.
+MAJOR UPDATE: Now supports defining multiple user defined areas.  3 options now.  Full Image Search, User Defined Search Areas, User Defined Exclusion Areas.  Depending on your image you may find it easier to define a couple sections you want to exclude from the search or conversely define some sections you exclusively want to search.  There is a reset button next to the checkboxes to clear and reset your areas.
         	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-04T14:22:54.872Z" encoding="Base64">TXaKXRJa0X5DfnYJTiea+6v4ldDtfTXOnhOEKmtQCpfbQ7lSdSgmfps4ERWXuAPiNluku4/zANv1xL+dvXRNCw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-04T20:41:12.361Z" encoding="Base64">c6ALkmD+V0xOAWHP9qv3ZTbs6YhP8to7x6XOeJx6XgSPcDN86wAeQIvshZdvWvryDvFUBlEQSKqTEA9iUmfqAw==</Signature>
