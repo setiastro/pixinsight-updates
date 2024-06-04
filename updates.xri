@@ -6,22 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.03.2024_3.zip" sha1="32b5261c9699f8af09760343536d8b61079aa4a4" type="script" releaseDate="20240603">
+      <package fileName="SetiAstroScripts06.04.2024.zip" sha1="0b92ad0d60704a2a88b1f94c0828544c1df541f6" type="script" releaseDate="20240604">
          <title>
-        Find Background V1.1.1
+        Star Stretch V2.2
       </title>
          <description>
             <p>
-Updated to include a User Defined Search Region.  This will open a preview in which you can Shift + Click and drag a rectangle to define a User Defined Search Region.  This is perfect for situations where you were not able to remove the gradient fully, want to avoid a big dust mote, avoid a dark nebula, or any other reason you want to restrict the search to a defined area of your image.  
+Updated to include a Preview to allow the user to view the stretch prior to committing to the main image.  Please utilize the Preview Refresh button to refresh the preview after making adjustments to the numeric sliders.  The Select Image dropdown now also defaults to the active window.
         	</p>
-            <p>
-If using the User Defined Search Region, I recommend reducing the Number of Starting Points since you are now only looking at a smaller portion of the main image or doing a Slow Search in the new Defined Region.
-		</p>
-            <p>
-Statistical Stretch V1.5.1 and Find Background V1.1.1 improved math equations to speed up processing.  Continuum Subtraction V1.3.3 fixed issue with NoiseX not calling the correct AI file name on Macs.
-		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-03T21:31:29.653Z" encoding="Base64">jweFWctRjWjMxdqYEO30OOE2Wn8l5g5kglP4+X1vFA4gnc+wgFXXyNDXgeouclkvLIWGatOjLj6lnC5QVx87Dg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-04T14:22:54.872Z" encoding="Base64">TXaKXRJa0X5DfnYJTiea+6v4ldDtfTXOnhOEKmtQCpfbQ7lSdSgmfps4ERWXuAPiNluku4/zANv1xL+dvXRNCw==</Signature>
