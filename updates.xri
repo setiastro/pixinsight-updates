@@ -6,16 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.04.2024_2.zip" sha1="ee7d9022cb63de2fa1c971d10190c64d48f3a0fc" type="script" releaseDate="20240604">
+      <package fileName="SetiAstroScripts06.04.2024_3.zip" sha1="124bd031b46548da60fe96b6f11301b0871dc3d7" type="script" releaseDate="20240604">
          <title>
-        Find Background V1.2
+        Find Background V1.2.1
       </title>
          <description>
             <p>
 MAJOR UPDATE: Now supports defining multiple user defined areas.  3 options now.  Full Image Search, User Defined Search Areas, User Defined Exclusion Areas.  Depending on your image you may find it easier to define a couple sections you want to exclude from the search or conversely define some sections you exclusively want to search.  There is a reset button next to the checkboxes to clear and reset your areas.
         	</p>
+            <p>
+V1.2.1 Update to clear areas when switching between User Defined Search and User Defined Exclusion checkboxes.  Added Green rectangles when in User Defined Search and Red rectangles when in User Defined Exclusion as a visual reminder what mode you are in.
+        	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-04T20:41:12.361Z" encoding="Base64">c6ALkmD+V0xOAWHP9qv3ZTbs6YhP8to7x6XOeJx6XgSPcDN86wAeQIvshZdvWvryDvFUBlEQSKqTEA9iUmfqAw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-05T02:22:39.556Z" encoding="Base64">dIe+h+j+JSTvEUPIWnMB6lUsOXs7+YMkTkZf32bpM7iUnjxStneUfKXX9a1/8kU/L1e9SFIJaz5ktlTJxzOPAw==</Signature>
