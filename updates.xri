@@ -6,22 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.05.2024.zip" sha1="f6d52d206e683d6c1f88798aac204e3a50343c17" type="script" releaseDate="20240605">
+      <package fileName="SetiAstroScripts06.09.2024.zip" sha1="81a8b7d761a7b46d9b5a2e1581348a5b453bd666" type="script" releaseDate="20240609">
          <title>
-        Find Background V1.2.2
+        Star Stretch V2.3
       </title>
          <description>
             <p>
-V1.2: Now supports defining multiple user defined areas.  3 options now.  Full Image Search, User Defined Search Areas, User Defined Exclusion Areas.  Depending on your image you may find it easier to define a couple sections you want to exclude from the search or conversely define some sections you exclusively want to search.  There is a reset button next to the checkboxes to clear and reset your areas.
-        	</p>
-            <p>
-V1.2.1 Update to clear areas when switching between User Defined Search and User Defined Exclusion checkboxes.  Added Green rectangles when in User Defined Search and Red rectangles when in User Defined Exclusion as a visual reminder what mode you are in.
-        	</p>
-            <p>
-V1.2.2 Update to more efficiently handle overlapping User Defined Regions
+Star Stretch now optionally will run SCNR if the user chooses versus defaulting to always running with no way to disable it.
         	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-05T13:40:31.453Z" encoding="Base64">m5YX5PilxHkdbRp/g3Jtt/i7E0xFmDygjm1WbvVoboJiw9K6zWDrJesSu2h0zZyync9rceDXOflGxKMMFtzoBw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-09T12:54:55.062Z" encoding="Base64">9kT95CbM0H91Opb8jBfqdxF7QVPReh7/BH0RngmXByR20y9gvoT7E7deifx4gUUvoqal69FJNF5sQ0GWBI+HBg==</Signature>
