@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.09.2024.zip" sha1="81a8b7d761a7b46d9b5a2e1581348a5b453bd666" type="script" releaseDate="20240609">
+      <package fileName="SetiAstroScripts06.10.2024.zip" sha1="f4885dd753f4151058c028e5208362c1bbdd2b16" type="script" releaseDate="20240610">
          <title>
-        Star Stretch V2.3
+        Automatic DBE V1.0
       </title>
          <description>
             <p>
-Star Stretch now optionally will run SCNR if the user chooses versus defaulting to always running with no way to disable it.
+Remove gradients via dynamically found endpoints via gradient descent to utilize within DBE.  Script runs custom weighting and rejection algorithms for those points.  There is also a feature to exclude areas that you don&apos;t want modelled in your gradient removal like dark nebula.  Other automatic gradient correction programs do not have this feature.  This was also designed to minimize impact on actual signal (nebulosity, IFN, etc) that may try and get corrected via other automatic gradient correction methods.
         	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-09T12:54:55.062Z" encoding="Base64">9kT95CbM0H91Opb8jBfqdxF7QVPReh7/BH0RngmXByR20y9gvoT7E7deifx4gUUvoqal69FJNF5sQ0GWBI+HBg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-10T14:48:44.158Z" encoding="Base64">zDQd0mnGoKugMCXC/xhV+9FOM6mtl1ccuFGG16w9F97kXOdoUwuRQMFRcfs0115qHKbuzt6gPfwrXrIMzY2jBA==</Signature>
