@@ -6,19 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.10.2024_2.zip" sha1="074abc672b133205896b6a8da0b706744ad52ebb" type="script" releaseDate="20240610">
+      <package fileName="SetiAstroScripts06.10.2024_3.zip" sha1="f28987d40877e4486fa423b5d968fe5cf75681cf" type="script" releaseDate="20240610">
          <title>
-        Automatic DBE V1.0.1
+        Automatic DBE V1.1
       </title>
          <description>
             <p>
 Remove gradients via dynamically found endpoints via gradient descent to utilize within DBE.  Script runs custom weighting and rejection algorithms for those points.  There is also a feature to exclude areas that you don&apos;t want modelled in your gradient removal like dark nebula.  Other automatic gradient correction programs do not have this feature.  This was also designed to minimize impact on actual signal (nebulosity, IFN, etc) that may try and get corrected via other automatic gradient correction methods.
         	</p>
             <p>
-V1.0.1 Ensures all temporary background windows are closed when the script is done running.
+V1.1 Ensures all FITS header and astrometric solutions are copied to the newly created image.
         	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-10T19:08:15.534Z" encoding="Base64">X+rm3FDq+29uTh069PhZ3cbtoEgxyG362j3eXLVA/yYIw7kO5ti1r7P1OTWANDprUtZ6w8guFm9j8PFPNey1DA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-10T19:26:04.863Z" encoding="Base64">8HKC9SdZ3/9o0oFlJVybbbPsQu0CIwvLvd/aPNv2S5dIMuhvkpzDKtNWf+JPxiNh4yqYG3pe8v/mrZCXCzSvAA==</Signature>
