@@ -6,9 +6,9 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.10.2024_3.zip" sha1="f28987d40877e4486fa423b5d968fe5cf75681cf" type="script" releaseDate="20240610">
+      <package fileName="SetiAstroScripts06.12.2024.zip" sha1="72f6dd65edf357331093aae489c489e5ae52aca1" type="script" releaseDate="20240612">
          <title>
-        Automatic DBE V1.1
+        Automatic DBE V1.2
       </title>
          <description>
             <p>
@@ -17,8 +17,11 @@ Remove gradients via dynamically found endpoints via gradient descent to utilize
             <p>
 V1.1 Ensures all FITS header and astrometric solutions are copied to the newly created image.
         	</p>
+            <p>
+V1.2 Added checkbox to disable initial simple gradient model if the user determines the image has minimal initial gradient.  Improved scoring and weighting in DBE, fixed issue where script wasn&apos;t functioning on the correct dropdown item.
+        	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-10T19:26:04.863Z" encoding="Base64">8HKC9SdZ3/9o0oFlJVybbbPsQu0CIwvLvd/aPNv2S5dIMuhvkpzDKtNWf+JPxiNh4yqYG3pe8v/mrZCXCzSvAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-12T14:17:42.716Z" encoding="Base64">t49VluvV3yiuGXMbrJYH0+ryoUF5fIDWvBKRkl9kSyb/Ud+icdlioxY7Dr07cQyh5uYnKFBEr9eE2baKSZyhDQ==</Signature>
