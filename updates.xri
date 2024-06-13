@@ -6,22 +6,25 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.12.2024.zip" sha1="72f6dd65edf357331093aae489c489e5ae52aca1" type="script" releaseDate="20240612">
+      <package fileName="SetiAstroScripts06.13.2024.zip" sha1="dd66526430683aab2e306fa8ea86b282d4f0d74e" type="script" releaseDate="20240613">
          <title>
-        Automatic DBE V1.2
+        Automatic DBE V1.3
       </title>
          <description>
             <p>
 Remove gradients via dynamically found endpoints via gradient descent to utilize within DBE.  Script runs custom weighting and rejection algorithms for those points.  There is also a feature to exclude areas that you don&apos;t want modelled in your gradient removal like dark nebula.  Other automatic gradient correction programs do not have this feature.  This was also designed to minimize impact on actual signal (nebulosity, IFN, etc) that may try and get corrected via other automatic gradient correction methods.
         	</p>
             <p>
-V1.1 Ensures all FITS header and astrometric solutions are copied to the newly created image.
+V1.3 Added checkbox to optionally rigidly affix 4 corner points for ADBE that will not follow the gradient descent algorithm.  Use this option if you find the corner correction was not correct.
         	</p>
             <p>
 V1.2 Added checkbox to disable initial simple gradient model if the user determines the image has minimal initial gradient.  Improved scoring and weighting in DBE, fixed issue where script wasn&apos;t functioning on the correct dropdown item.
+        	</p>
+            <p>
+V1.1 Ensures all FITS header and astrometric solutions are copied to the newly created image.
         	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-12T14:17:42.716Z" encoding="Base64">t49VluvV3yiuGXMbrJYH0+ryoUF5fIDWvBKRkl9kSyb/Ud+icdlioxY7Dr07cQyh5uYnKFBEr9eE2baKSZyhDQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-13T13:11:28.919Z" encoding="Base64">knt6aFOMqnTPPSJ53zoQvYIlVBXp0a+0R/AlOrKHAmTjArt5UsRB1GjzicNUdQKwmhT8pIGN0iJ9Ks8peEnUDw==</Signature>
