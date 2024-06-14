@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.14.2024_3.zip" sha1="8cf9ff8ff7aea3b130d3137d58d2d91ef805f4e05" type="script" releaseDate="20240614">
+      <package fileName="SetiAstroScripts06.14.2024_4.zip" sha1="ed21be20a92d9c5dd8af905f91daee48d78922f6" type="script" releaseDate="20240614">
          <title>
         Automatic DBE V1.3.3
       </title>
@@ -33,4 +33,4 @@ V1.1 Ensures all FITS header and astrometric solutions are copied to the newly c
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-14T15:38:08.398Z" encoding="Base64">xtOpvLdxqSly61PAfWbhQyGADlXj31QPwmvYn8r+VcTqcz35AzFn2MubmrHUxzK+VhXOd5Gys9MwemtJtRHFAw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-14T16:50:09.352Z" encoding="Base64">dSvFn+B+G2f6CjDONbeN44pL3nCfyScsCIdFiwxb6weDg0HUtkOti+2/khHkWQSSS6jx8bB4Ybes+77W/bh7Aw==</Signature>
