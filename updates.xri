@@ -6,13 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.13.2024.zip" sha1="dd66526430683aab2e306fa8ea86b282d4f0d74e" type="script" releaseDate="20240613">
+      <package fileName="SetiAstroScripts06.13.2024_2.zip" sha1="5cce0ea00af186e5f7e79a6f3a6f2e94007bb482" type="script" releaseDate="20240613">
          <title>
-        Automatic DBE V1.3
+        Automatic DBE V1.3.1
       </title>
          <description>
             <p>
 Remove gradients via dynamically found endpoints via gradient descent to utilize within DBE.  Script runs custom weighting and rejection algorithms for those points.  There is also a feature to exclude areas that you don&apos;t want modelled in your gradient removal like dark nebula.  Other automatic gradient correction programs do not have this feature.  This was also designed to minimize impact on actual signal (nebulosity, IFN, etc) that may try and get corrected via other automatic gradient correction methods.
+        	</p>
+            <p>
+V1.3.1 Allows opening the dialog in the global context.  If running from the global context the option to replace the target is no longer avialable.  Drag and drop for immediate processing on a target image still functions as before.
         	</p>
             <p>
 V1.3 Added checkbox to optionally rigidly affix 4 corner points for ADBE that will not follow the gradient descent algorithm.  Use this option if you find the corner correction was not correct.
@@ -27,4 +30,4 @@ V1.1 Ensures all FITS header and astrometric solutions are copied to the newly c
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-13T13:11:28.919Z" encoding="Base64">knt6aFOMqnTPPSJ53zoQvYIlVBXp0a+0R/AlOrKHAmTjArt5UsRB1GjzicNUdQKwmhT8pIGN0iJ9Ks8peEnUDw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-14T00:30:07.835Z" encoding="Base64">HV4qnnhTNGp3VGiiVDIE9fInEPluw/voAS8FWbzV4lHz9keqezd6gvVX5M1KOq5JmUs172Ki9xhDvvwNKD7lAg==</Signature>
