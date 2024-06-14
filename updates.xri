@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.14.2024.zip" sha1="ec0eb04be241b4511b838f1cecb33e51d84bf402" type="script" releaseDate="20240614">
+      <package fileName="SetiAstroScripts06.14.2024_2.zip" sha1="77e5d9312051ab46f4c36037555c05c766f5e3d5" type="script" releaseDate="20240614">
          <title>
-        Automatic DBE V1.3.2
+        Automatic DBE V1.3.3
       </title>
          <description>
             <p>
 Remove gradients via dynamically found endpoints via gradient descent to utilize within DBE.  Script runs custom weighting and rejection algorithms for those points.  There is also a feature to exclude areas that you don&apos;t want modelled in your gradient removal like dark nebula.  Other automatic gradient correction programs do not have this feature.  This was also designed to minimize impact on actual signal (nebulosity, IFN, etc) that may try and get corrected via other automatic gradient correction methods.
         	</p>
             <p>
-V1.3.2 Corrected issue where weights were not properly pushed internal to DBE.  Minimized chance of initial point clustering.
+V1.3.3 Corrected issue where weights were not properly pushed internal to DBE.  Minimized chance of initial point clustering.  Corrected issue where astrometric solution no longer copied to new image.
         	</p>
             <p>
 V1.3.1 Allows opening the dialog in the global context.  If running from the global context the option to replace the target is no longer avialable.  Drag and drop for immediate processing on a target image still functions as before.
@@ -33,4 +33,4 @@ V1.1 Ensures all FITS header and astrometric solutions are copied to the newly c
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-14T14:36:53.420Z" encoding="Base64">nie5NjNJsdDWffW8PcH+aNrsuP8wU5snk2Qe+VEX9TrV5yhydZXcXMq0fOnEtIAy5DuUxHzP1XSafkIenWFlAQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-14T15:26:24.873Z" encoding="Base64">zbQxRptQW8YqQbhPD5IvEhpyPuIXA+GAxbzt12b5TRz2dCjnwcjcX+nQNfukL6Gmxgpk9wqM6Xal8/gmFW30Dw==</Signature>
