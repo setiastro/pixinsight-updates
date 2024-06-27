@@ -6,31 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.14.2024_4.zip" sha1="ed21be20a92d9c5dd8af905f91daee48d78922f6" type="script" releaseDate="20240614">
+      <package fileName="SetiAstroScripts06.27.2024.zip" sha1="823474331af441af24417f888ade52fd0567c74f" type="script" releaseDate="20240627">
          <title>
-        Automatic DBE V1.3.3
+        Automatic DBE and Star Stretch Updates
       </title>
          <description>
             <p>
-Remove gradients via dynamically found endpoints via gradient descent to utilize within DBE.  Script runs custom weighting and rejection algorithms for those points.  There is also a feature to exclude areas that you don&apos;t want modelled in your gradient removal like dark nebula.  Other automatic gradient correction programs do not have this feature.  This was also designed to minimize impact on actual signal (nebulosity, IFN, etc) that may try and get corrected via other automatic gradient correction methods.
+ADBE V1.4 - Improved weighting calculations to include additional factors.  User defined sample radius now translates to gradient descent region size as well as final DBE radius.
         	</p>
             <p>
-V1.3.3 Corrected issue where weights were not properly pushed internal to DBE.  Minimized chance of initial point clustering.  Corrected issue where astrometric solution no longer copied to new image.
-        	</p>
-            <p>
-V1.3.1 Allows opening the dialog in the global context.  If running from the global context the option to replace the target is no longer avialable.  Drag and drop for immediate processing on a target image still functions as before.
-        	</p>
-            <p>
-V1.3 Added checkbox to optionally rigidly affix 4 corner points for ADBE that will not follow the gradient descent algorithm.  Use this option if you find the corner correction was not correct.
-        	</p>
-            <p>
-V1.2 Added checkbox to disable initial simple gradient model if the user determines the image has minimal initial gradient.  Improved scoring and weighting in DBE, fixed issue where script wasn&apos;t functioning on the correct dropdown item.
-        	</p>
-            <p>
-V1.1 Ensures all FITS header and astrometric solutions are copied to the newly created image.
+Star Stretch V2.4 - Preview is turned off by default.  Added a checkbox to show or hid the preview.
         	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-14T16:50:09.352Z" encoding="Base64">dSvFn+B+G2f6CjDONbeN44pL3nCfyScsCIdFiwxb6weDg0HUtkOti+2/khHkWQSSS6jx8bB4Ybes+77W/bh7Aw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-27T13:50:10.473Z" encoding="Base64">Hllrf+vQHIFHws35v7Yh9XY+PYYVZTM7EDXruCUneq5nOsFwCyXm1YVCu0YMbU+deHpR4wM/MmytCQdjO+qrCg==</Signature>
