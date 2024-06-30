@@ -6,19 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.27.2024.zip" sha1="823474331af441af24417f888ade52fd0567c74f" type="script" releaseDate="20240627">
+      <package fileName="SetiAstroScripts06.30.2024.zip" sha1="93832021b3768370d0555c21404e582fad12e61a" type="script" releaseDate="20240630">
          <title>
-        Automatic DBE and Star Stretch Updates
+        Star Stretch V2.5
       </title>
          <description>
             <p>
-ADBE V1.4 - Improved weighting calculations to include additional factors.  User defined sample radius now translates to gradient descent region size as well as final DBE radius.
-        	</p>
-            <p>
-Star Stretch V2.4 - Preview is turned off by default.  Added a checkbox to show or hid the preview.
+Minor update to disable STF after the star stretch process is complete.  This will minimize confusion if the STF was applied when starting the script making the final result appear overstretched since the STF was still applied.
         	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-27T13:50:10.473Z" encoding="Base64">Hllrf+vQHIFHws35v7Yh9XY+PYYVZTM7EDXruCUneq5nOsFwCyXm1YVCu0YMbU+deHpR4wM/MmytCQdjO+qrCg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-30T12:33:23.930Z" encoding="Base64">yUZmMBP5meRjPFHTvAw3UfL+fnHnLwhBhNqowR0/EGeEWlazonSAPp4Hqveu77/jm4mS/6pu84W7VemrwlxECA==</Signature>
