@@ -6,16 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts06.30.2024.zip" sha1="93832021b3768370d0555c21404e582fad12e61a" type="script" releaseDate="20240630">
+      <package fileName="SetiAstroScripts06.30.2024_1.zip" sha1="7fc4fabce36458ea44446586afbcb0446cff4c57" type="script" releaseDate="20240630">
          <title>
-        Star Stretch V2.5
+        ADBE V1.5 and Star Stretch V2.5
       </title>
          <description>
             <p>
-Minor update to disable STF after the star stretch process is complete.  This will minimize confusion if the STF was applied when starting the script making the final result appear overstretched since the STF was still applied.
+ADBE V1.5 Update to make the simplified model&apos;s polynomial degree user defineable.  This will help in cases where the corners may get overcorrected or undercorrected.  Default polynomial degree is set to 1, but can be changed to 0, 1, or 2.
+        	</p>
+            <p>
+Star Stretch V2.5 Minor update to disable STF after the star stretch process is complete.  This will minimize confusion if the STF was applied when starting the script making the final result appear overstretched since the STF was still applied.
         	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-06-30T12:33:23.930Z" encoding="Base64">yUZmMBP5meRjPFHTvAw3UfL+fnHnLwhBhNqowR0/EGeEWlazonSAPp4Hqveu77/jm4mS/6pu84W7VemrwlxECA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-06-30T16:17:50.641Z" encoding="Base64">FUqi4a4DAzy5tSOfO6V9TgxqD82pklCuByK8A960YpmVN93h0TIxFhWfTYifpah5wjZD93eNTlQMeOW9TZ0LAA==</Signature>
