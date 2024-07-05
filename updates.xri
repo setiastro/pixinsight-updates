@@ -6,19 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.03.2024.zip" sha1="9904b6c193e4444e3ea2fc996a55e42c7324b500" type="script" releaseDate="20240703">
+      <package fileName="SetiAstroScripts07.05.2024.zip" sha1="ccc86636fc19ca58f5a206bb5157e4dccb698c50" type="script" releaseDate="20240705">
          <title>
-        NB to RGB Stars V1.5
+        Mask Merge Utility v1.0
       </title>
          <description>
             <p>
-Updated to include an optional preview window.  This will allow you to make adjustments to the Ha - OIII ratio, Star Stretch, and Color Boost prior to committing these changes to the main images.
+Mask Merge is a script to combine masks in various ways.  This can help isolate a color mask to just the bright portions of a range mask, or subtract a color mask from another creating a mask that will highlight everything that isn&apos;t that particular color.
         	</p>
             <p>
-Minor other bug and text based changes in other scripts.
-        	</p>
+A great feature is since Union is technically Screening, you can quickly and easily Screen a Starless and StarsOnly image together much faster than other scripts or methods.
+	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-03T19:57:02.187Z" encoding="Base64">9qfx5Kr7qeJEJ3Kj5u5VkjX54LvXZKwj26T/HQ0T+WzTPbdMI0tMs8LSYrP2BZpjkWqtN0T1uV8NtbB263wJDg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-05T12:52:34.758Z" encoding="Base64">szJasTaTEZSHIBESpVCk9uM+ucgUKICHe1MpXEDOeby7JHh2Zq0OnIs/iH/9YAhP241EKidAIiOda3wrIQt+CA==</Signature>
