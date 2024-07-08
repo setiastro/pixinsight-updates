@@ -6,19 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.05.2024.zip" sha1="ccc86636fc19ca58f5a206bb5157e4dccb698c50" type="script" releaseDate="20240705">
+      <package fileName="SetiAstroScripts07.08.2024.zip" sha1="10f8f5ed938f542c47191e4fe25fc1c29bee6326" type="script" releaseDate="20240708">
          <title>
-        Mask Merge Utility v1.0
+        Freehand Adaptive Mask Editor (FAME) v1.0
       </title>
          <description>
             <p>
-Mask Merge is a script to combine masks in various ways.  This can help isolate a color mask to just the bright portions of a range mask, or subtract a color mask from another creating a mask that will highlight everything that isn&apos;t that particular color.
+FAME allows to freehand draw a mask of any shape, along with placing elliptical and rectangular masks down.  You can also move, rotate, and resize and drawn shape.  Once your shapes are defined you can select whether it will be a binary mask, Lightness mask, or Chrominance mask.  Blur adjustment performs a convolution on the final mask.  You can draw multiple shapes and cycle through which shape is active with the spacebar.  The dialog will stay open after executing to allow creating multiple masks.
         	</p>
-            <p>
-A great feature is since Union is technically Screening, you can quickly and easily Screen a Starless and StarsOnly image together much faster than other scripts or methods.
-	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-05T12:52:34.758Z" encoding="Base64">szJasTaTEZSHIBESpVCk9uM+ucgUKICHe1MpXEDOeby7JHh2Zq0OnIs/iH/9YAhP241EKidAIiOda3wrIQt+CA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-08T11:53:43.705Z" encoding="Base64">/iw4tq7fP++nfFuJhgrLD7ubqu4RHlYd4FbI4mOqWD3Dm/utc0xQ+181ZydmWoGA2bAfz0cebPP3Sun+aZFjAA==</Signature>
