@@ -6,11 +6,14 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.08.2024.zip" sha1="10f8f5ed938f542c47191e4fe25fc1c29bee6326" type="script" releaseDate="20240708">
+      <package fileName="SetiAstroScripts07.08.2024_1.zip" sha1="3d890ab5f81398791a5ac69729feb54d68b3b301" type="script" releaseDate="20240708">
          <title>
-        Freehand Adaptive Mask Editor (FAME) v1.0
+        Freehand Adaptive Mask Editor (FAME) v1.1
       </title>
          <description>
+            <p>
+V1.1 now includes a color mask type!
+		</p>
             <p>
 FAME allows to freehand draw a mask of any shape, along with placing elliptical and rectangular masks down.  You can also move, rotate, and resize and drawn shape.  Once your shapes are defined you can select whether it will be a binary mask, Lightness mask, or Chrominance mask.  Blur adjustment performs a convolution on the final mask.  You can draw multiple shapes and cycle through which shape is active with the spacebar.  The dialog will stay open after executing to allow creating multiple masks.
         	</p>
@@ -18,4 +21,4 @@ FAME allows to freehand draw a mask of any shape, along with placing elliptical 
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-08T11:53:43.705Z" encoding="Base64">/iw4tq7fP++nfFuJhgrLD7ubqu4RHlYd4FbI4mOqWD3Dm/utc0xQ+181ZydmWoGA2bAfz0cebPP3Sun+aZFjAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-08T16:30:28.406Z" encoding="Base64">SYXNUBUY1BN/ni92TQpkvhZJSGOe/n7jlogmyj5aSah5lCtlyaPXlexGrKjMQLKGIAS0aoFPz0N2dLMs1JpeDg==</Signature>
