@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.08.2024_3.zip" sha1="3a6ffb5a0d37391fc54e86540aa4e430fa928001" type="script" releaseDate="20240708">
+      <package fileName="SetiAstroScripts07.08.2024_4.zip" sha1="58756953c0311e6dcfb69baf2c5abc99d75e15ad" type="script" releaseDate="20240708">
          <title>
         Freehand Adaptive Mask Editor (FAME) v1.1.2
       </title>
@@ -24,4 +24,4 @@ FAME allows to freehand draw a mask of any shape, along with placing elliptical 
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-08T23:10:07.695Z" encoding="Base64">22rCrC70qWfxQeWSmjvGi7HcOelyrNZOy9RAVZTuIX4AlwFY4S2zNbnNc1nPK8TKGBph9NyooSipHLmZpn2vBQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-08T23:36:46.365Z" encoding="Base64">OtXdll6n/LSZk7y2enGCddBjr5Q7VO/VR1ri/KbuuDG4lAVPSngL9FVXZnOHw/ccKX8So3emcHetOSvMur0zBA==</Signature>
