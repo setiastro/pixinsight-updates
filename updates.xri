@@ -6,11 +6,14 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.08.2024_2.zip" sha1="d4f589acec3e90fb2dd9485e9f62fb157e296ddd" type="script" releaseDate="20240708">
+      <package fileName="SetiAstroScripts07.08.2024_3.zip" sha1="3a6ffb5a0d37391fc54e86540aa4e430fa928001" type="script" releaseDate="20240708">
          <title>
-        Freehand Adaptive Mask Editor (FAME) v1.1.1
+        Freehand Adaptive Mask Editor (FAME) v1.1.2
       </title>
          <description>
+            <p>
+V1.1.2 Updated cursor in the preview.  The open Hand was not specific enough.  FindBackground and ADBE also updated with a better cursor.
+		</p>
             <p>
 V1.1.1 now includes a color mask type!
 		</p>
@@ -21,4 +24,4 @@ FAME allows to freehand draw a mask of any shape, along with placing elliptical 
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-08T16:46:07.100Z" encoding="Base64">G1HSu/cR0pJEJy5Z054eITZDFxIm7PNx6UyEzByEcS95k4RYpqYJuGOP/I/BHXofkWy/FXtBwscjOhG6hyj5DA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-08T23:10:07.695Z" encoding="Base64">22rCrC70qWfxQeWSmjvGi7HcOelyrNZOy9RAVZTuIX4AlwFY4S2zNbnNc1nPK8TKGBph9NyooSipHLmZpn2vBQ==</Signature>
