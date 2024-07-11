@@ -6,13 +6,13 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.09.2024.zip" sha1="d3b3a14878e019941b261021024b72da93f2cd1b" type="script" releaseDate="20240709">
+      <package fileName="SetiAstroScripts07.10.2024.zip" sha1="12640333c17b27d03a45f1f918f1234c7288d30d" type="script" releaseDate="20240710">
          <title>
-        Freehand Adaptive Mask Editor (FAME) and MaskMerge v1.2
+        Freehand Adaptive Mask Editor (FAME) and MaskMerge v1.2.1
       </title>
          <description>
             <p>
-V1.2 Now includes a Brush and SprayCan tool.  MaskMerge now has a blur adjuster
+V1.2.1 Fixes bug where script would freeze on some systems if brush was executed twice in a row.  V1.2 Now includes a Brush and SprayCan tool.  MaskMerge now has a blur adjuster.
 		</p>
             <p>
 V1.1.2 Updated cursor in the preview.  The open Hand was not specific enough.  FindBackground and ADBE also updated with a better cursor.
@@ -27,4 +27,4 @@ FAME allows to freehand draw a mask of any shape, along with placing elliptical 
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-09T20:24:19.356Z" encoding="Base64">mNRuhOkEw8lTOgJI/sC++/xZZpClBKTNBySoDyOoOgKhf+SP9P3/33blWESMNh1QKlLllUEPXHpBFpRkf8Z8Aw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-11T02:05:25.676Z" encoding="Base64">18HC/bu+FC5Od6ipav8PrtoX44Y/lqe+vhK484IMGT5wqlD01gveJJYKnhVZ0G2YnkpK8TJOVHfhIxdtQ/J5DQ==</Signature>
