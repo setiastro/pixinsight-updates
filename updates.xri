@@ -6,25 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.10.2024.zip" sha1="12640333c17b27d03a45f1f918f1234c7288d30d" type="script" releaseDate="20240710">
+      <package fileName="SetiAstroScripts07.13.2024.zip" sha1="905955e4bdd4ae0cd80bbbb1e973d62d77ebf484" type="script" releaseDate="20240713">
          <title>
-        Freehand Adaptive Mask Editor (FAME) and MaskMerge v1.2.1
+        What&apos;s In My Image Script V1.0
       </title>
          <description>
             <p>
-V1.2.1 Fixes bug where script would freeze on some systems if brush was executed twice in a row.  V1.2 Now includes a Brush and SprayCan tool.  MaskMerge now has a blur adjuster.
+What&apos;s in my image allows you to define a reference point and radius and query Simbad for all objects within that radius.  Those objects will be marked on the preview and allow you to double click the object in the Table to go directly to Simbad.  You can also export all objects to a CSV file to use with Annotate script!
 		</p>
             <p>
-V1.1.2 Updated cursor in the preview.  The open Hand was not specific enough.  FindBackground and ADBE also updated with a better cursor.
+NBtoRGBstars preview bug fixed for OSC images.  FAME script bug fix on macs that was causing some to experience an error when using the brush.
 		</p>
-            <p>
-V1.1.1 now includes a color mask type!
-		</p>
-            <p>
-FAME allows to freehand draw a mask of any shape, along with placing elliptical and rectangular masks down.  You can also move, rotate, and resize and drawn shape.  Once your shapes are defined you can select whether it will be a binary mask, Lightness mask, or Chrominance mask.  Blur adjustment performs a convolution on the final mask.  You can draw multiple shapes and cycle through which shape is active with the spacebar.  The dialog will stay open after executing to allow creating multiple masks.
-        	</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-11T02:05:25.676Z" encoding="Base64">18HC/bu+FC5Od6ipav8PrtoX44Y/lqe+vhK484IMGT5wqlD01gveJJYKnhVZ0G2YnkpK8TJOVHfhIxdtQ/J5DQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-13T19:46:58.141Z" encoding="Base64">IQyhwHFWmeVz8pn6/9P5EYuodLr1kbHMGY4lYM/GrGnpQ8lILppYjCzS07sT2COC43ORlC8erokywMlqvEMnCg==</Signature>
