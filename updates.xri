@@ -6,19 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.13.2024.zip" sha1="905955e4bdd4ae0cd80bbbb1e973d62d77ebf484" type="script" releaseDate="20240713">
+      <package fileName="SetiAstroScripts07.14.2024.zip" sha1="19eddad4cad04277506afaa98b6bb980be8d55a7" type="script" releaseDate="20240714">
          <title>
-        What&apos;s In My Image Script V1.0
+        What&apos;s In My Image Script V1.1
       </title>
          <description>
             <p>
-What&apos;s in my image allows you to define a reference point and radius and query Simbad for all objects within that radius.  Those objects will be marked on the preview and allow you to double click the object in the Table to go directly to Simbad.  You can also export all objects to a CSV file to use with Annotate script!
+V1.1 MAJOR UPDATE: Includes an Advanced Search button.  This opens a pane to the right so you can specify as many or as few object types to search for.  You can also go to an external browser with the Search NED button that will search the NASA/IPAC Extragalactic Database for the defined circle you drew.  You can now also double click a marker to directly take you to the SIMBAD entry.  All column headers are now sortable as well!
 		</p>
             <p>
-NBtoRGBstars preview bug fixed for OSC images.  FAME script bug fix on macs that was causing some to experience an error when using the brush.
+What&apos;s in my image allows you to define a reference point and radius and query Simbad for all objects within that radius.  Those objects will be marked on the preview and allow you to double click the object in the Table to go directly to Simbad.  You can also export all objects to a CSV file to use with Annotate script!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-13T19:46:58.141Z" encoding="Base64">IQyhwHFWmeVz8pn6/9P5EYuodLr1kbHMGY4lYM/GrGnpQ8lILppYjCzS07sT2COC43ORlC8erokywMlqvEMnCg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-14T21:57:53.203Z" encoding="Base64">XkPxohhWRVytFx73JH8Dkh5I/THbTQThFSrK6fncn34kNhbAIpDHuR3Yp2ri571FiB5m8Diziv/iUD8L/HGfAA==</Signature>
