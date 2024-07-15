@@ -6,13 +6,13 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.15.2024_2.zip" sha1="309aa1f0722786984780c9479f095f249d74654f" type="script" releaseDate="20240715">
+      <package fileName="SetiAstroScripts07.15.2024_3.zip" sha1="ee1a5bdfbf26024508a7e8251fb0931582029306" type="script" releaseDate="20240715">
          <title>
-        What&apos;s In My Image Script V1.3
+        What&apos;s In My Image Script V1.3.1
       </title>
          <description>
             <p>
-V1.3 You can now ZOOM OUT!  It currently will not remain centered when zooming out but just use the minipreview to recenter quickly after done zooming.
+V1.3.1 You can now ZOOM OUT!  It currently will not remain centered when zooming out but just use the minipreview to recenter quickly after done zooming.
 		</p>
             <p>
 V1.2 Updated to include an tool wrench button to allow you to limit or expand the number of downloads you receive from Simbad.  Includes minor bug fixes.
@@ -27,4 +27,4 @@ What&apos;s in my image allows you to define a reference point and radius and qu
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-15T20:49:36.156Z" encoding="Base64">Qz3CmJQPRWlAd/mZDANzJvmXUFkD2Zy+ICoDADnqqnA5+O50pu+FfywOYNOomWcpiodbspJsrBdUFUSSOkq8AQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-15T22:19:49.517Z" encoding="Base64">mP26jyyLGeHdN1iehm7l0v+WnNicSSVf1ZnEYDWuVZNqjaTVLdnKw6M2771/VedPae+iXBF3Pa84WanN5ewDAA==</Signature>
