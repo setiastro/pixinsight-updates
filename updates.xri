@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.15.2024.zip" sha1="cc50e94b896f388bd152489130fb9d0dbfe6d82b" type="script" releaseDate="20240715">
+      <package fileName="SetiAstroScripts07.15.2024_1.zip" sha1="95a86546546f5b696d477c328ac21be5ee96965f" type="script" releaseDate="20240715">
          <title>
         What&apos;s In My Image Script V1.2
       </title>
@@ -24,4 +24,4 @@ What&apos;s in my image allows you to define a reference point and radius and qu
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-15T15:39:28.215Z" encoding="Base64">4gJ2Aec02Pidzz5/puf/Nj/5KpI1LA+012NOjoCTc+AD23LqPqpM/l+6+j2uwOtER1t+TYRjAJCWzKGw4WanBA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-15T19:03:48.323Z" encoding="Base64">ZT5Sj+95Q3baNFdOWe2wfIKf+NfggUWwntcmlByLhLwx7mlrU6OS10Mebm4jhauOkYGrIvBXNLbdwtp1DSbjBA==</Signature>
