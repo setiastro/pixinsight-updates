@@ -6,11 +6,14 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.14.2024.zip" sha1="19eddad4cad04277506afaa98b6bb980be8d55a7" type="script" releaseDate="20240714">
+      <package fileName="SetiAstroScripts07.15.2024.zip" sha1="cc50e94b896f388bd152489130fb9d0dbfe6d82b" type="script" releaseDate="20240715">
          <title>
-        What&apos;s In My Image Script V1.1
+        What&apos;s In My Image Script V1.2
       </title>
          <description>
+            <p>
+V1.2 Updated to include an tool wrench button to allow you to limit or expand the number of downloads you receive from Simbad.  Includes minor bug fixes.
+		</p>
             <p>
 V1.1 MAJOR UPDATE: Includes an Advanced Search button.  This opens a pane to the right so you can specify as many or as few object types to search for.  You can also go to an external browser with the Search NED button that will search the NASA/IPAC Extragalactic Database for the defined circle you drew.  You can now also double click a marker to directly take you to the SIMBAD entry.  All column headers are now sortable as well!
 		</p>
@@ -21,4 +24,4 @@ What&apos;s in my image allows you to define a reference point and radius and qu
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-14T21:57:53.203Z" encoding="Base64">XkPxohhWRVytFx73JH8Dkh5I/THbTQThFSrK6fncn34kNhbAIpDHuR3Yp2ri571FiB5m8Diziv/iUD8L/HGfAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-15T15:39:28.215Z" encoding="Base64">4gJ2Aec02Pidzz5/puf/Nj/5KpI1LA+012NOjoCTc+AD23LqPqpM/l+6+j2uwOtER1t+TYRjAJCWzKGw4WanBA==</Signature>
