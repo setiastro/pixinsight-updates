@@ -6,11 +6,14 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.15.2024_3.zip" sha1="ee1a5bdfbf26024508a7e8251fb0931582029306" type="script" releaseDate="20240715">
+      <package fileName="SetiAstroScripts07.16.2024.zip" sha1="0a7191b2cb29d7cf8284da8b390984efd2cfc3a1" type="script" releaseDate="20240716">
          <title>
-        What&apos;s In My Image Script V1.3.1
+        What&apos;s In My Image Script V1.4
       </title>
          <description>
+            <p>
+V1.4 Additional Advanced Search features, minipreview updates, bug fix on clicking on markers after zooming.
+		</p>
             <p>
 V1.3.1 You can now ZOOM OUT!  It currently will not remain centered when zooming out but just use the minipreview to recenter quickly after done zooming.
 		</p>
@@ -27,4 +30,4 @@ What&apos;s in my image allows you to define a reference point and radius and qu
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-15T22:19:49.517Z" encoding="Base64">mP26jyyLGeHdN1iehm7l0v+WnNicSSVf1ZnEYDWuVZNqjaTVLdnKw6M2771/VedPae+iXBF3Pa84WanN5ewDAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-16T14:09:46.930Z" encoding="Base64">98JJ1S2Bing9ikaaUD/lBwQPV6NcFxeN49LrQvEm229EUZV2gBJMvtJM4QxMZmyWdNRHAG798lpPRchMwTB3Bg==</Signature>
