@@ -6,11 +6,14 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.17.2024.zip" sha1="c3e71a915525dc53aa28580954daedb228241fc8" type="script" releaseDate="20240717">
+      <package fileName="SetiAstroScripts07.18.2024.zip" sha1="1c523f006ca2bd5a442486c6e5238e1d1e0f1f35" type="script" releaseDate="20240718">
          <title>
-        What&apos;s In My Image Script V1.5.1
+        What&apos;s In My Image Script V1.6
       </title>
          <description>
+            <p>
+V1.6 Ability to save the annotated image along with displaying names next to the markers.
+		</p>
             <p>
 V1.5.1 New Instance and Copy Ra and DEc along with Additional Advanced Search features, minipreview updates, bug fix on clicking on markers after zooming.  Corrected miniPreview clicking to recenter.  Drift when zooming has been fixed too!
 		</p>
@@ -30,4 +33,4 @@ What&apos;s in my image allows you to define a reference point and radius and qu
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-17T12:28:54.912Z" encoding="Base64">ADFLahbs1aLXbIWskIemULWpWRs5tMNM218S1OZHpdaWaPZ+aUqX5yRTpP28eKsIqXhLK8geQPArhfrHj30PBg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-18T17:51:26.389Z" encoding="Base64">U9paFRFxphICFUzEVNU7FrCTaYQzj943zUzYZzQ2e5/2wHA7GAXv7sfnVRu+oKBCxbeSBkyg8+JnePtvfxK9DA==</Signature>
