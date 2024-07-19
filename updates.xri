@@ -6,11 +6,14 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.18.2024_1.zip" sha1="4a98195960053b53aead2d0099ed93fde18cb9b8" type="script" releaseDate="20240718">
+      <package fileName="SetiAstroScripts07.19.2024.zip" sha1="de5193ac7b725b9c5401e08b2009fcd20928d5b5" type="script" releaseDate="20240719">
          <title>
-        What&apos;s In My Image Script V1.6.1
+        What&apos;s In My Image Script V1.7
       </title>
          <description>
+            <p>
+V1.7 Ability to now save a cropped annotated version, change font type, color, and size for the saved annotated image.  All those settings are in the Wrench button.
+		</p>
             <p>
 V1.6.1 Ability to save the annotated image along with displaying names next to the markers.  Fixed issue with miniPreview on some computers.
 		</p>
@@ -33,4 +36,4 @@ What&apos;s in my image allows you to define a reference point and radius and qu
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-19T00:57:16.024Z" encoding="Base64">sQ6DborHLGNhy5gvzaCJacnUuNg77QSbt5UBSj9EnEvBWueCktmlbyQxj9/QzWEGXrwu+MW+me4uf4kf7VJHCA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-19T16:43:24.874Z" encoding="Base64">HOpOg2akbjIhisXP3cmrDkOlH7LtriSFy1Qp+zeixuzf95N28divjb82g5/z0r8fL+pJUQCZeV6NW1vpMMfqAg==</Signature>
