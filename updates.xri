@@ -6,11 +6,14 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.19.2024.zip" sha1="de5193ac7b725b9c5401e08b2009fcd20928d5b5" type="script" releaseDate="20240719">
+      <package fileName="SetiAstroScripts07.20.2024.zip" sha1="0d2a2a2d1a44c490c24a7eeb2827fe8350c48683" type="script" releaseDate="20240720">
          <title>
-        What&apos;s In My Image Script V1.7
+        What&apos;s In My Image Script V1.8
       </title>
          <description>
+            <p>
+V1.8 New Deep Search in the Advanced Search panel.  Use Caution as this will generate a lot of results.  Make sure you defined area is small!!  Also adjusted the preview to show the selected font style, size, and color from when you change it in the wrench icon.
+		</p>
             <p>
 V1.7 Ability to now save a cropped annotated version, change font type, color, and size for the saved annotated image.  All those settings are in the Wrench button.
 		</p>
@@ -36,4 +39,4 @@ What&apos;s in my image allows you to define a reference point and radius and qu
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-19T16:43:24.874Z" encoding="Base64">HOpOg2akbjIhisXP3cmrDkOlH7LtriSFy1Qp+zeixuzf95N28divjb82g5/z0r8fL+pJUQCZeV6NW1vpMMfqAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-20T21:55:42.738Z" encoding="Base64">VLc7NQZhqDcipKmVggjok88p5SMGNgj3fwVFmP3tgpga2ZxUBTHWyMMBqLZ7FlGIfhRI8qjgsoX2LxACMJ1YDg==</Signature>
