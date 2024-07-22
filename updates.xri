@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.22.2024.zip" sha1="9a8847db2bc987c7b6667ee9bbe5846f4707229a" type="script" releaseDate="20240722">
+      <package fileName="SetiAstroScripts07.22.2024_1.zip" sha1="01c231509e85cd139a79732fea2e0580e4bf7c46" type="script" releaseDate="20240722">
          <title>
         Freehand Adaptive Mask Editor (FAME) V1.3
       </title>
@@ -18,4 +18,4 @@ V1.3 Now supports using the mouse wheel to zoom in and out!  There is also a cor
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-22T14:16:51.593Z" encoding="Base64">BQjA1G3vST56PUQGOxvYnU4tiN7nleE9FrnDtoL6DYh+5qY6pHojCksVePvKFwGAVBSbJHAHjCBQhWT+BkmbDQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-22T15:01:14.804Z" encoding="Base64">9Vy7u5vSeIMbS3QhyrKHsafKHwFOp2Ja+mw/Qqqje6dcPvEYt76EExcske6XbSaU7rDjk0nY5bQwUgpmld37DQ==</Signature>
