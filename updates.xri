@@ -6,37 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.20.2024.zip" sha1="0d2a2a2d1a44c490c24a7eeb2827fe8350c48683" type="script" releaseDate="20240720">
+      <package fileName="SetiAstroScripts07.22.2024.zip" sha1="9a8847db2bc987c7b6667ee9bbe5846f4707229a" type="script" releaseDate="20240722">
          <title>
-        What&apos;s In My Image Script V1.8
+        Freehand Adaptive Mask Editor (FAME) V1.3
       </title>
          <description>
             <p>
-V1.8 New Deep Search in the Advanced Search panel.  Use Caution as this will generate a lot of results.  Make sure you defined area is small!!  Also adjusted the preview to show the selected font style, size, and color from when you change it in the wrench icon.
-		</p>
-            <p>
-V1.7 Ability to now save a cropped annotated version, change font type, color, and size for the saved annotated image.  All those settings are in the Wrench button.
-		</p>
-            <p>
-V1.6.1 Ability to save the annotated image along with displaying names next to the markers.  Fixed issue with miniPreview on some computers.
-		</p>
-            <p>
-V1.5.1 New Instance and Copy Ra and DEc along with Additional Advanced Search features, minipreview updates, bug fix on clicking on markers after zooming.  Corrected miniPreview clicking to recenter.  Drift when zooming has been fixed too!
-		</p>
-            <p>
-V1.3.1 You can now ZOOM OUT!  It currently will not remain centered when zooming out but just use the minipreview to recenter quickly after done zooming.
-		</p>
-            <p>
-V1.2 Updated to include an tool wrench button to allow you to limit or expand the number of downloads you receive from Simbad.  Includes minor bug fixes.
-		</p>
-            <p>
-V1.1 MAJOR UPDATE: Includes an Advanced Search button.  This opens a pane to the right so you can specify as many or as few object types to search for.  You can also go to an external browser with the Search NED button that will search the NASA/IPAC Extragalactic Database for the defined circle you drew.  You can now also double click a marker to directly take you to the SIMBAD entry.  All column headers are now sortable as well!
-		</p>
-            <p>
-What&apos;s in my image allows you to define a reference point and radius and query Simbad for all objects within that radius.  Those objects will be marked on the preview and allow you to double click the object in the Table to go directly to Simbad.  You can also export all objects to a CSV file to use with Annotate script!
+V1.3 Now supports using the mouse wheel to zoom in and out!  There is also a correction where the chrominance mask generate NaN values in some pixels.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-20T21:55:42.738Z" encoding="Base64">VLc7NQZhqDcipKmVggjok88p5SMGNgj3fwVFmP3tgpga2ZxUBTHWyMMBqLZ7FlGIfhRI8qjgsoX2LxACMJ1YDg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-22T14:16:51.593Z" encoding="Base64">BQjA1G3vST56PUQGOxvYnU4tiN7nleE9FrnDtoL6DYh+5qY6pHojCksVePvKFwGAVBSbJHAHjCBQhWT+BkmbDQ==</Signature>
