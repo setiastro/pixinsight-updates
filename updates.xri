@@ -6,19 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.22.2024_2.zip" sha1="b6b8192b43396c0664a2daf54235e00e525ae39b" type="script" releaseDate="20240722">
+      <package fileName="SetiAstroScripts07.24.2024.zip" sha1="73e5a640a480833c90b4eeba53ac05ae2a477acf" type="script" releaseDate="20240724">
          <title>
-        Freehand Adaptive Mask Editor (FAME) V1.3.1 and What&apos;s In My Image V1.10
+        Halo-B-Gon V1.0
       </title>
          <description>
             <p>
-FAME V1.3.1 Now supports using the mouse wheel to zoom in and out!  There is also a correction where the chrominance mask generate NaN values in some pixels.
-		</p>
-            <p>
-WIMIv1.10 Now includes ctrl+click and drag to determine distances between two points, marker names is default unchecked, and double clicking a deep search marker takes you to the more full NED entry.
+Quick and Easy stellar halo reduction tool!  Simply apply it to your Star Only image and tell those Halos Begone!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-22T16:53:50.330Z" encoding="Base64">JHv5Lsh3eOtZVOIqme9UGb/9qiN3L1Qa3GBFZJgxFhkAAQ9VylG6HyO6krulKRexsjN86noUFu6A+8QxH3SKCg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-24T12:29:46.128Z" encoding="Base64">qkliyeK36bdVarLFzyOpAcdO30NM4URxl8CmnFDN0xnj+PzoTq8cTIZnI9N0vNDmUnQaaPT4RPeegv5MD56bCg==</Signature>
