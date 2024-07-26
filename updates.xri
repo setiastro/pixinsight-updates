@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.24.2024.zip" sha1="73e5a640a480833c90b4eeba53ac05ae2a477acf" type="script" releaseDate="20240724">
+      <package fileName="SetiAstroScripts07.26.2024.zip" sha1="d6a3defdafaaf61b72498cf60f529e4bb3156f5f" type="script" releaseDate="20240726">
          <title>
-        Halo-B-Gon V1.0
+        What&apos;s In My Image V2.0
       </title>
          <description>
             <p>
-Quick and Easy stellar halo reduction tool!  Simply apply it to your Star Only image and tell those Halos Begone!
+Major Update to the WIMI script.  A full set of Annotation tools!  Open the Annotation Tools pane, select the object you want to draw, Alt+click and drag to place your objects.  Each object can have its own color.  Ctrl+click and drag to determine celestial distances (ie how many arc seconds between two objects), the ability to remove Markers and more!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-24T12:29:46.128Z" encoding="Base64">qkliyeK36bdVarLFzyOpAcdO30NM4URxl8CmnFDN0xnj+PzoTq8cTIZnI9N0vNDmUnQaaPT4RPeegv5MD56bCg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-26T12:16:59.413Z" encoding="Base64">nQAdM/yAb84rK+cjCS1UKq/cmHcoySmRDOoiVrsAZejhBR9CIDC3C70EtR+k4YVa9fbw2BO/28YhDcsxsEr1BA==</Signature>
