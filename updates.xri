@@ -6,16 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.26.2024.zip" sha1="d6a3defdafaaf61b72498cf60f529e4bb3156f5f" type="script" releaseDate="20240726">
+      <package fileName="SetiAstroScripts07.26.2024_1.zip" sha1="3c0c019a6fffdd0e419ca0661b104fd59cf51816" type="script" releaseDate="20240726">
          <title>
-        What&apos;s In My Image V2.0
+        What&apos;s In My Image V2.0 and Halo-B-Gon V1.1
       </title>
          <description>
             <p>
 Major Update to the WIMI script.  A full set of Annotation tools!  Open the Annotation Tools pane, select the object you want to draw, Alt+click and drag to place your objects.  Each object can have its own color.  Ctrl+click and drag to determine celestial distances (ie how many arc seconds between two objects), the ability to remove Markers and more!
 		</p>
+            <p>
+Halo-B-Gon V1.1 better controls dimmer small stars helping to retain them much better over V1.0
+		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-26T12:16:59.413Z" encoding="Base64">nQAdM/yAb84rK+cjCS1UKq/cmHcoySmRDOoiVrsAZejhBR9CIDC3C70EtR+k4YVa9fbw2BO/28YhDcsxsEr1BA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-26T16:03:37.413Z" encoding="Base64">g4fRvK5DixB/K/Z1K/q1I/7YsFcoNtlc8YP3ZbG+Np57iUCjjOD8juhvNdqWqNoav2HfrMy71vJ8BAMyIgFlDg==</Signature>
