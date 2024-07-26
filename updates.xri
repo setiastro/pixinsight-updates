@@ -6,9 +6,9 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.26.2024_1.zip" sha1="3c0c019a6fffdd0e419ca0661b104fd59cf51816" type="script" releaseDate="20240726">
+      <package fileName="SetiAstroScripts07.26.2024_2.zip" sha1="6d295dd205e56173ca9364ab21ee80f6fc28d094" type="script" releaseDate="20240726">
          <title>
-        What&apos;s In My Image V2.0 and Halo-B-Gon V1.1
+        What&apos;s In My Image V2.1 and Halo-B-Gon V1.1
       </title>
          <description>
             <p>
@@ -21,4 +21,4 @@ Halo-B-Gon V1.1 better controls dimmer small stars helping to retain them much b
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-26T16:03:37.413Z" encoding="Base64">g4fRvK5DixB/K/Z1K/q1I/7YsFcoNtlc8YP3ZbG+Np57iUCjjOD8juhvNdqWqNoav2HfrMy71vJ8BAMyIgFlDg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-26T20:53:48.384Z" encoding="Base64">kmNVzdZlglakT8NFDy7laIuzEAdHxKBfdWdfQXYD3URWQfN2mZgS+zl70zcGMoTuvL1uO1nfumpwvZ/OFxfBDg==</Signature>
