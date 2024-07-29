@@ -6,9 +6,9 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.29.2024.zip" sha1="4b364125278dc162f4360d1fb218e96d494616ca" type="script" releaseDate="20240729">
+      <package fileName="SetiAstroScripts07.29.2024_1.zip" sha1="8831c9b305cbe5f788345d598a8ff7b8e811b11a" type="script" releaseDate="20240729">
          <title>
-        Blemish Blaster (Content Aware Healing Tool) V1.0
+        Blemish Blaster (Content Aware Healing Tool) V1.1
       </title>
          <description>
             <p>
@@ -18,4 +18,4 @@ If you were looking for an improved CloneStamp look no further!  Blemish Blaster
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-29T12:35:58.895Z" encoding="Base64">FvBhefN/TlmxYG7zJlfwz3NEkICvwAZv2GAHK/kmzb6FdgOCUBPa+Ybv9GyBWYNtCaiDJxG5RsRb2e1W5w98DQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-29T17:49:28.891Z" encoding="Base64">MBt84R93aWGQ/sRtypwySN0/WMyyxsMkyA7Zuxi+TO/hORBRark1lVypV09V2cyDkLOoyjLdGxt4wXuvvX1DAw==</Signature>
