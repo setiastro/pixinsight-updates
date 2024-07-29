@@ -6,19 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.26.2024_2.zip" sha1="6d295dd205e56173ca9364ab21ee80f6fc28d094" type="script" releaseDate="20240726">
+      <package fileName="SetiAstroScripts07.29.2024.zip" sha1="4b364125278dc162f4360d1fb218e96d494616ca" type="script" releaseDate="20240729">
          <title>
-        What&apos;s In My Image V2.1 and Halo-B-Gon V1.1
+        Blemish Blaster (Content Aware Healing Tool) V1.0
       </title>
          <description>
             <p>
-Major Update to the WIMI script.  A full set of Annotation tools!  Open the Annotation Tools pane, select the object you want to draw, Alt+click and drag to place your objects.  Each object can have its own color.  Ctrl+click and drag to determine celestial distances (ie how many arc seconds between two objects), the ability to remove Markers and more!
-		</p>
-            <p>
-Halo-B-Gon V1.1 better controls dimmer small stars helping to retain them much better over V1.0
+If you were looking for an improved CloneStamp look no further!  Blemish Blaster allows you to define healing areas around your artifacts and blemishes and will erase that blemish while maintaining similar structure to the surrounding area.  This is algorithm based and not AI!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-26T20:53:48.384Z" encoding="Base64">kmNVzdZlglakT8NFDy7laIuzEAdHxKBfdWdfQXYD3URWQfN2mZgS+zl70zcGMoTuvL1uO1nfumpwvZ/OFxfBDg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-07-29T12:35:58.895Z" encoding="Base64">FvBhefN/TlmxYG7zJlfwz3NEkICvwAZv2GAHK/kmzb6FdgOCUBPa+Ybv9GyBWYNtCaiDJxG5RsRb2e1W5w98DQ==</Signature>
