@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts07.29.2024_1.zip" sha1="8831c9b305cbe5f788345d598a8ff7b8e811b11a" type="script" releaseDate="20240729">
+      <package fileName="SetiAstroScripts08.01.2024.zip" sha1="85af38185c54f7ec8480b6e9a640ca9072153dac" type="script" releaseDate="20240801">
          <title>
-        Blemish Blaster (Content Aware Healing Tool) V1.1
+        What&apos;s In My Image V2.2
       </title>
          <description>
             <p>
-If you were looking for an improved CloneStamp look no further!  Blemish Blaster allows you to define healing areas around your artifacts and blemishes and will erase that blemish while maintaining similar structure to the surrounding area.  This is algorithm based and not AI!
+Multiple Save Options now available (png, jpg, and tiff)  Added dropdown to select different marker types under the Annotation Tools panel.  The Labels will not go outside the border of the image now.  Zoom In/Out buttons added.  Image rotation now displayed next to RA/DEC.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-07-29T17:49:28.891Z" encoding="Base64">MBt84R93aWGQ/sRtypwySN0/WMyyxsMkyA7Zuxi+TO/hORBRark1lVypV09V2cyDkLOoyjLdGxt4wXuvvX1DAw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-01T19:26:17.479Z" encoding="Base64">3caqOCeFj0DH7MMFv3o/mlp0s8oAaB2kvMDUWmpBeRO9NR98G1I7ARbXO9Yo8qUKqIDPG3sVBUFX6Yhczk+DBA==</Signature>
