@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.01.2024.zip" sha1="85af38185c54f7ec8480b6e9a640ca9072153dac" type="script" releaseDate="20240801">
+      <package fileName="SetiAstroScripts08.02.2024.zip" sha1="235809343ae0aca46d46b2ca3fb4b27c96566ee0" type="script" releaseDate="20240802">
          <title>
-        What&apos;s In My Image V2.2
+        Blemish Blaster V1.2
       </title>
          <description>
             <p>
-Multiple Save Options now available (png, jpg, and tiff)  Added dropdown to select different marker types under the Annotation Tools panel.  The Labels will not go outside the border of the image now.  Zoom In/Out buttons added.  Image rotation now displayed next to RA/DEC.
+Fixed the &quot;Sticky&quot; circle issue if you released the shift key prior to the mouse button.  That will no longer happen.  Also updated the stretch to perform linked stretches from the linear state to preserve color balance.  There may be a small pedestal shift due to the statistics of the image changing slightly after blemish removal.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-01T19:26:17.479Z" encoding="Base64">3caqOCeFj0DH7MMFv3o/mlp0s8oAaB2kvMDUWmpBeRO9NR98G1I7ARbXO9Yo8qUKqIDPG3sVBUFX6Yhczk+DBA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-02T12:36:06.625Z" encoding="Base64">cSopW2PLqgGvJbhPNWB7asR0zQ0dEF//XNxhQeonG4/iqMWU8WRyMnN3CHsExlckgyFerArsrM5aJUH+er+XCw==</Signature>
