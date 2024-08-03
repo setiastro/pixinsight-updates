@@ -6,16 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.03.2024.zip" sha1="9801cd2d521c659c66afbb132940ed51876ebc0b" type="script" releaseDate="20240803">
+      <package fileName="SetiAstroScripts08.03.2024_1.zip" sha1="e529e64ec6bb294c5d6dbf526d185e2a3641f4bc" type="script" releaseDate="20240803">
          <title>
-        Blemish Blaster V2.0
+        Blemish Blaster V2.1
       </title>
          <description>
             <p>
 V2 bring an option to freehand draw your blemish removal area.  Ctrl+click and drag to define a line to remove satellite trails.  Alt+click on a satellite trail to auto find the trail, this is still in the experimental phase!  Undo now restores the previously drawn areas to make tweaking your feathering or opacity much faster.  Undo also now correctly works with AutoSTF functionality.
 		</p>
+            <p>
+V2.1 Finally improves zooming in and out so the image doesn&apos;t slide off the screen!
+		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-03T19:32:34.131Z" encoding="Base64">EvATJrer4hqoMTFw0QY/IHiagfx/RXmW55rycBOomaQqvsPsCuw2udC/1ggN/PJCfuf/j8Ga/QiMLN5EAveTBQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-03T21:56:59.891Z" encoding="Base64">3nglrH5UJ7wELqpajIp8LucqaVq4YasBGFg9IOj7tHkIqL9jxfdsLaEVeTD5JNxVgxuKFj9z5Jv7heb/V2R0AQ==</Signature>
