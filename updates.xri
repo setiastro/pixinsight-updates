@@ -6,9 +6,9 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.04.2024_1.zip" sha1="673a30169a5204f302bc88a52837ba21fff9dc3a" type="script" releaseDate="20240804">
+      <package fileName="SetiAstroScripts08.04.2024_2.zip" sha1="4bf57048aa27aa5dc81b2de37ece2c1e5e1476eb" type="script" releaseDate="20240804">
          <title>
-        Blemish Blaster V2.2 and Statistical Stretch V1.6
+        Blemish Blaster V2.2, Statistical Stretch V1.6, and Halo-B-Gon V2.0
       </title>
          <description>
             <p>
@@ -20,8 +20,11 @@ V2.2 Auto satellite trail finding with Alt+Click now GREATLY improved!
             <p>
 Statistical Stretch V1.6 Curves boost parameters updated with a big thanks to Bill Blanshan for the parameters!
 		</p>
+            <p>
+Halo-B-Gon now utilizes a MultiscaleMedianTransformation step in the mask generation process to further improve small star retention during the halo removal process.
+		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-04T16:19:27.346Z" encoding="Base64">6KsGb5mrN/X2paflYREcsyMrAkKV5/95VUWEJv9cFBS+qxcNR4nZHg8WbHz4uoQhnyAtvT9/Zy7J7RQzEx3HCQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-04T19:36:54.784Z" encoding="Base64">OYr7CYdfqoK8XHYdnWz9sYT3qM/4Eq7Fys6fSK+VmW0YVHirJqiubpCPCbJA6GLYs20cJBxJ5cMG+6IFu3wsCQ==</Signature>
