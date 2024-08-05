@@ -6,25 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.04.2024_2.zip" sha1="4bf57048aa27aa5dc81b2de37ece2c1e5e1476eb" type="script" releaseDate="20240804">
+      <package fileName="SetiAstroScripts08.05.2024.zip" sha1="0c04749be8564fe0c8d892e9cc1f8267f0f0165a" type="script" releaseDate="20240805">
          <title>
-        Blemish Blaster V2.2, Statistical Stretch V1.6, and Halo-B-Gon V2.0
+        Whats In My Image V2.3
       </title>
          <description>
             <p>
-V2 bring an option to freehand draw your blemish removal area.  Ctrl+click and drag to define a line to remove satellite trails.  Alt+click on a satellite trail to auto find the trail, this is still in the experimental phase!  Undo now restores the previously drawn areas to make tweaking your feathering or opacity much faster.  Undo also now correctly works with AutoSTF functionality.
-		</p>
-            <p>
-V2.2 Auto satellite trail finding with Alt+Click now GREATLY improved!
-		</p>
-            <p>
-Statistical Stretch V1.6 Curves boost parameters updated with a big thanks to Bill Blanshan for the parameters!
-		</p>
-            <p>
-Halo-B-Gon now utilizes a MultiscaleMedianTransformation step in the mask generation process to further improve small star retention during the halo removal process.
+V2.3 Brings searching the MAST database to the Advanced Search Panel.  Have you ever wondered if Spitzer, Swift, JWST, Hubble, etc viewed the same object?  This is the search for you!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-04T19:36:54.784Z" encoding="Base64">OYr7CYdfqoK8XHYdnWz9sYT3qM/4Eq7Fys6fSK+VmW0YVHirJqiubpCPCbJA6GLYs20cJBxJ5cMG+6IFu3wsCQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-05T20:23:47.643Z" encoding="Base64">Lz+Vh/1oNHAyVvlB+5kKliVG5L2olXPxHKnozZwcANwowRiXRjCTkqn18Tm0HD0rM7oZhWGpObrpDoBr6vl9Ag==</Signature>
