@@ -6,16 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.05.2024.zip" sha1="0c04749be8564fe0c8d892e9cc1f8267f0f0165a" type="script" releaseDate="20240805">
+      <package fileName="SetiAstroScripts08.06.2024.zip" sha1="0c018bd21f82e07a0096979aaf94bb75cbb6d2cc" type="script" releaseDate="20240806">
          <title>
-        Whats In My Image V2.3
+        Whats In My Image V2.3.1
       </title>
          <description>
             <p>
 V2.3 Brings searching the MAST database to the Advanced Search Panel.  Have you ever wondered if Spitzer, Swift, JWST, Hubble, etc viewed the same object?  This is the search for you!
 		</p>
+            <p>
+V2.3.1 Allows using the keyboard arrowkeys to move up and down the item table and the highlighted markers will change as the up and down arrows are used to navigate the item table.
+		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-05T20:23:47.643Z" encoding="Base64">Lz+Vh/1oNHAyVvlB+5kKliVG5L2olXPxHKnozZwcANwowRiXRjCTkqn18Tm0HD0rM7oZhWGpObrpDoBr6vl9Ag==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-06T21:38:10.697Z" encoding="Base64">YAWE41Ta/PzbE06fPK5FQ/1CMwPiKx9TMGnPDQEygdGtm1qCn7PyP3byl86LcLtxqf04NZmwkMW4acbJ9R16CA==</Signature>
