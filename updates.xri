@@ -6,19 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.15.2024.zip" sha1="dc2a3dfc2f97916e8f1b6fb86097cabfeecfddd7" type="script" releaseDate="20240815">
+      <package fileName="SetiAstroScripts08.16.2024.zip" sha1="1064aa21b2a2cc8edcc77d3444902064ee5612ae" type="script" releaseDate="20240816">
          <title>
-        Whats In My Image V2.4.1 and Blemish Blaster V2.3
+        AstroMark Signature Adder V1.0
       </title>
          <description>
             <p>
-Whats In My Image will now allow you to save your selections you made in the Advanced Search Panel.  Just confirm your selections and drag the blue triangle off.  When you open via the new instance you created it will load back the selections you made!  It also now clears the markers if the query returns zero results.
-		</p>
-            <p>
-Blemish Blaster V2.3 has a much improved auto find satellite trail, and experimental correct star feature, and a dropdown if you so choose to just correct a single channel in an RGB image ie there was only star remnants left in the blue channel that you want to correct.
+AstroMark Signature Adder now allows you within PixInsight to add your signature directly to your image.  It preserves transparencies on .png and other file formats, you can rotate, resize, reposition, and adjust opacity on your signature.  No need to export the image first into 3rd party software to add your signature now!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-15T15:06:13.830Z" encoding="Base64">9BeMBXgUkp9zz0DCHXjeQNvkc7uf4/7eRd/6dT1Kkpo7VuxuBToQ1JPJiMGP1B1LnSvJelMZqPEq5YY4wsrXAw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-16T16:00:19.338Z" encoding="Base64">96/ixX+zyT1jpDBoE/58OMr640msiZqmPkpdA9sIVg8Ic3lvdXearKZKzbfydZT2eCv2uBJVYoFjcgkXgEFTDg==</Signature>
