@@ -6,22 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.17.2024.zip" sha1="a39218f8d617d766aaace38007149ddd31edac47" type="script" releaseDate="20240817">
+      <package fileName="SetiAstroScripts08.19.2024.zip" sha1="935b109722b77be8d17bf152168a5251c579c43e" type="script" releaseDate="20240819">
          <title>
-        AstroMark Signature Adder V1.1 and ADBE V1.6
+        Blemish Blaster V2.4
       </title>
          <description>
             <p>
-AstroMark Signature Adder now allows you within PixInsight to add your signature directly to your image.  It preserves transparencies on .png and other file formats, you can rotate, resize, reposition, and adjust opacity on your signature.  No need to export the image first into 3rd party software to add your signature now!
-		</p>
-            <p>
-AstroMark Signature Adder V1.1 now includes fixed position locations with offset for your signature if you so choose.
-		</p>
-            <p>
-ADBE V1.6 now includes the option for the user to decide whether to use Subtraction or Division as the correction method.  Subtraction is normally used for additive gradients (light pollution, moon glow, sky glow, etc) and Division is usually used for multiplicative gradients (optical field fall off, filter irregularities, improper flat correction, etc)
+Important bug fix for Blemish Blaster
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-17T17:03:54.679Z" encoding="Base64">G5dZ7B4sIiA2RdvI0A1bABkFRFyKL95idwUZlp9j5hIuM3+7/xLvqVxndrN8NbykNx/VgZrTRMUtkctVob6GDg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-19T23:26:20.131Z" encoding="Base64">C/11qXs8N8oyiSs4ABDa/rnPJ1Q+CNHxh7uduei3itbjHlVimsU/ZrK3W/im2ViqxVydqN8GFBWWXEPxyYtuAA==</Signature>
