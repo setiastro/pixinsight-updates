@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.19.2024.zip" sha1="935b109722b77be8d17bf152168a5251c579c43e" type="script" releaseDate="20240819">
+      <package fileName="SetiAstroScripts08.20.2024.zip" sha1="fcfae6137b8a727b56fdff72179599c6b477a763" type="script" releaseDate="20240820">
          <title>
-        Blemish Blaster V2.4
+        AstroMark Signature Added V1.2
       </title>
          <description>
             <p>
-Important bug fix for Blemish Blaster
+V1.2 now support multiple  blending types.  Unfortunately blending modes aren&apos;t supported in the preview but I did provide a link to help you decide and the blending works perfectly when you click Execute.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-19T23:26:20.131Z" encoding="Base64">C/11qXs8N8oyiSs4ABDa/rnPJ1Q+CNHxh7uduei3itbjHlVimsU/ZrK3W/im2ViqxVydqN8GFBWWXEPxyYtuAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-20T18:38:49.227Z" encoding="Base64">RjRtiB1+387kbEHnmJtEi38vE+ra6eMZGeE4K53eLtJdU0AAP1glFPrPUdOgqJshNkqe/6Gk5IxrfP5oe2BgDQ==</Signature>
