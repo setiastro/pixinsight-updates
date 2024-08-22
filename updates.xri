@@ -6,16 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.22.2024.zip" sha1="5ee610b19beff66a3a6c26b4fb9509da1ee4a31c" type="script" releaseDate="20240822">
+      <package fileName="SetiAstroScripts08.22.2024_1.zip" sha1="2c6a78d48613b533acb450da665f591e7b30e99a" type="script" releaseDate="20240822">
          <title>
-        Whats In My Image V2.5
+        Whats In My Image V2.6
       </title>
          <description>
             <p>
 V2.5 includes an amazing feature that allows your to create a collage of all our objects you have markers found for.  Just click the checkbox for Save Collage of Objects and then the Save Annotated Image button and it will automatically make a collage for you!
 		</p>
+            <p>
+V2.6 Now includes Toggle Stars and Toggle Galaxies buttons in the advanced search tab.  Use with Toggle All to quickly search for everything excluding stars, or only galaxies, etc.
+		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-22T14:32:50.150Z" encoding="Base64">4JFV8zO2CxfsuDzPrrdiK86uS0sRPp9IdUyV3L12o4z8oSm7SUg+NCcKabWe+CQ1j7alNkZ7YSdqfcDNOFErCA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-22T23:52:25.504Z" encoding="Base64">Bdu2tAi/uoaDacJ4H9eHvKq9oLKs41Y9r2Bvl+EngU/Dd6TD0L84YqLwCIYbbPSDxRpL0ztDXSdzu9fPcLAyCg==</Signature>
