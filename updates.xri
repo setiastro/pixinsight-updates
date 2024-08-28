@@ -6,19 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.22.2024_1.zip" sha1="2c6a78d48613b533acb450da665f591e7b30e99a" type="script" releaseDate="20240822">
+      <package fileName="SetiAstroScripts08.28.2024.zip" sha1="c40332e8796db01f71d91a95d69757ce0ae8824d" type="script" releaseDate="20240828">
          <title>
-        Whats In My Image V2.6
+        Halo-B-Gon V2.1
       </title>
          <description>
             <p>
-V2.5 includes an amazing feature that allows your to create a collage of all our objects you have markers found for.  Just click the checkbox for Save Collage of Objects and then the Save Annotated Image button and it will automatically make a collage for you!
-		</p>
-            <p>
-V2.6 Now includes Toggle Stars and Toggle Galaxies buttons in the advanced search tab.  Use with Toggle All to quickly search for everything excluding stars, or only galaxies, etc.
+V2.1 Now has an Extra Low setting for those finding the Low setting too strong.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-22T23:52:25.504Z" encoding="Base64">Bdu2tAi/uoaDacJ4H9eHvKq9oLKs41Y9r2Bvl+EngU/Dd6TD0L84YqLwCIYbbPSDxRpL0ztDXSdzu9fPcLAyCg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-28T12:27:55.857Z" encoding="Base64">V6jt8BtrsD/iKh/cOkDoL8UFaXrLsAOOQpNI9EwS51BKKh1O+NitCq1F3qOa7Dx7Hr5yNKcJmH1a8LRDXvHyBw==</Signature>
