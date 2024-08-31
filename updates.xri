@@ -6,16 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.28.2024.zip" sha1="c40332e8796db01f71d91a95d69757ce0ae8824d" type="script" releaseDate="20240828">
+      <package fileName="SetiAstroScripts08.31.2024.zip" sha1="106c8c1a24610bf5dfb420517281df7a861b5b6d" type="script" releaseDate="20240831">
          <title>
-        Halo-B-Gon V2.1
+        Whats In My Image V2.7
       </title>
          <description>
             <p>
-V2.1 Now has an Extra Low setting for those finding the Low setting too strong.
+V2.7 Now has a Show Visible Objects Only button.  A lot of times when you query there are a lot of objects that are just too dim in your image.  This will look at that location and compare it to the images median.  If it is above a certain threshold it will keep the object, otherwise it is too dim and removes it.  Now your collage and annotated image will only have what you can actually see in your image!
+		</p>
+            <p>
+Thank you to my contributor Gedas W8BYA EN70JT for the encouragement to implement this!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-08-28T12:27:55.857Z" encoding="Base64">V6jt8BtrsD/iKh/cOkDoL8UFaXrLsAOOQpNI9EwS51BKKh1O+NitCq1F3qOa7Dx7Hr5yNKcJmH1a8LRDXvHyBw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-08-31T12:59:39.151Z" encoding="Base64">TxhaH90qHFtMpQKXyhXNfVuswFKUUlrSR0j913JkkHLrsnRQbqP13BDxrkIQjredyQAvj72nUbTgPFSqAsXJBQ==</Signature>
