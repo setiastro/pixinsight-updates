@@ -6,19 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts09.01.2024.zip" sha1="78352e1b452ec473e5d8d8b7374c3451a9c3549a" type="script" releaseDate="20240901">
+      <package fileName="SetiAstroScripts09.05.2024.zip" sha1="170614147bcb40285626b692b9a6bdc139a335fa" type="script" releaseDate="20240905">
          <title>
-        Whats In My Image V2.7.1
+        AstroDepth Image Enhancer
       </title>
          <description>
             <p>
-V2.7.1 Now has a Show Visible Objects Only button.  Use the wrench icon to adjust the threshold of the visibility.  Defualt is 1 sigma above the median.  A lot of times when you query there are a lot of objects that are just too dim in your image.  This will look at that location and compare it to the images median.  If it is above a certain threshold it will keep the object, otherwise it is too dim and removes it.  Now your collage and annotated image will only have what you can actually see in your image!
-		</p>
-            <p>
-Thank you to my contributor Gedas W8BYA EN70JT for the encouragement to implement this!
+Add some artistic depth of field or use the optional blend to add that feeling of depth to your images.  Try it on starless images and add the stars back in, or on star filled image.  Use a low setting for a depth of field affect or default setting to really make the foreground stand out.  Try different blending amounts too!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-09-01T16:30:03.604Z" encoding="Base64">bGRzqxD1NAk7t+jQBNIu6rDYtpbnt64y6Nmv1OIP28sw2lR7kfG7bWTpdBUFgnK4wcaXwzFgpAgiv1Iqo6i7DA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-09-05T20:24:18.195Z" encoding="Base64">bztQXsYAs4YJCiELxwXbeua50uYnmoN/pAapMuajLrgbrQxKnbNLZakOy7MDo17l6Q48PZBBv9NJlmnNByK4Dw==</Signature>
