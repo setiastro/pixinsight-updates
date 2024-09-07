@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts09.05.2024.zip" sha1="170614147bcb40285626b692b9a6bdc139a335fa" type="script" releaseDate="20240905">
+      <package fileName="SetiAstroScripts09.07.2024.zip" sha1="ca06e5b5c81d5c918a6809ea8ab29eafcf7208dc" type="script" releaseDate="20240907">
          <title>
-        AstroDepth Image Enhancer
+        Blemish Blaster V2.4.1
       </title>
          <description>
             <p>
-Add some artistic depth of field or use the optional blend to add that feeling of depth to your images.  Try it on starless images and add the stars back in, or on star filled image.  Use a low setting for a depth of field affect or default setting to really make the foreground stand out.  Try different blending amounts too!
+Fixed a major issue when you removed a blemish from one image, selected a new image from the dropdown, and then exited, it would close the first image as well.  Now the first image remains open like it should&apos;ve.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-09-05T20:24:18.195Z" encoding="Base64">bztQXsYAs4YJCiELxwXbeua50uYnmoN/pAapMuajLrgbrQxKnbNLZakOy7MDo17l6Q48PZBBv9NJlmnNByK4Dw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-09-07T20:19:40.210Z" encoding="Base64">5iArQue1dBttKMgBIBX5m1p8yk5x5qdax48/PrlaqUgF91SdznisFBlWT+erZiss76lWBgTXCYiReeKbOJLSAg==</Signature>
