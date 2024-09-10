@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts09.07.2024.zip" sha1="ca06e5b5c81d5c918a6809ea8ab29eafcf7208dc" type="script" releaseDate="20240907">
+      <package fileName="SetiAstroScripts09.10.2024.zip" sha1="983b3ea9aa5a1d813214052e0b6103a1ce36bc7a" type="script" releaseDate="20240910">
          <title>
-        Blemish Blaster V2.4.1
+        Continuum Subtraction Utility v1.3.5
       </title>
          <description>
             <p>
-Fixed a major issue when you removed a blemish from one image, selected a new image from the dropdown, and then exited, it would close the first image as well.  Now the first image remains open like it should&apos;ve.
+Script now checks if the image dimensions are all the same prior to executing.  This will prevent the script hanging up if you have images with mismatched dimensions.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-09-07T20:19:40.210Z" encoding="Base64">5iArQue1dBttKMgBIBX5m1p8yk5x5qdax48/PrlaqUgF91SdznisFBlWT+erZiss76lWBgTXCYiReeKbOJLSAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-09-10T14:46:30.884Z" encoding="Base64">qbUuW2m/vvAlc3lX3OKuQVFexYHJ0y2pY8RyktqjAnO4GD32XQCnyRthzqj2If8dbdJpUfJmsnZq44bJr8zKAA==</Signature>
