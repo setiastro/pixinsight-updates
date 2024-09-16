@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts09.10.2024.zip" sha1="983b3ea9aa5a1d813214052e0b6103a1ce36bc7a" type="script" releaseDate="20240910">
+      <package fileName="SetiAstroScripts09.16.2024.zip" sha1="881cf0f459de9253aaec8993a3a1dd40680d7124" type="script" releaseDate="20240916">
          <title>
-        Continuum Subtraction Utility v1.3.5
+        Blind Solver 2000 V1.0
       </title>
          <description>
             <p>
-Script now checks if the image dimensions are all the same prior to executing.  This will prevent the script hanging up if you have images with mismatched dimensions.
+This script allows blind astrometric solution solving by handling all the client communication to astrometry.net for the base solution, and then applying those results into the ImageSolver script to achieve a full WCS solution.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-09-10T14:46:30.884Z" encoding="Base64">qbUuW2m/vvAlc3lX3OKuQVFexYHJ0y2pY8RyktqjAnO4GD32XQCnyRthzqj2If8dbdJpUfJmsnZq44bJr8zKAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-09-16T12:50:07.722Z" encoding="Base64">Cifgs4sCE30D8iltkDyjOupXMUQT+eDKwovN6ES7PLNQ32MMnwAis06JCveuQJ6iHVyAI39OaLPV4pZDKEIgBg==</Signature>
