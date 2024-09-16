@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts09.16.2024.zip" sha1="881cf0f459de9253aaec8993a3a1dd40680d7124" type="script" releaseDate="20240916">
+      <package fileName="SetiAstroScripts09.16.2024_1.zip" sha1="9ac659b31010e7deb970953632df889584bfeb19" type="script" releaseDate="20240916">
          <title>
         Blind Solver 2000 V1.0
       </title>
@@ -18,4 +18,4 @@ This script allows blind astrometric solution solving by handling all the client
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-09-16T12:50:07.722Z" encoding="Base64">Cifgs4sCE30D8iltkDyjOupXMUQT+eDKwovN6ES7PLNQ32MMnwAis06JCveuQJ6iHVyAI39OaLPV4pZDKEIgBg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-09-16T12:58:47.842Z" encoding="Base64">yjHcOLhYN0goKaQ8o0E/qLhWlBrmo2D0S8vNsElZfE6pVQGx2O5jysUt3v4zpmcCB0ThXQYcG22eSGhuhNQmBg==</Signature>
