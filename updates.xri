@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts09.16.2024_2.zip" sha1="19c329d6c9c94a4d2f8f5d671e82140066a449fd" type="script" releaseDate="20240916">
+      <package fileName="SetiAstroScripts09.19.2024.zip" sha1="1f5252cd416bbb2d84a030a7521a7c9097a8dcf6" type="script" releaseDate="20240919">
          <title>
-        Blind Solver 2000 V1.0
+        Blind Solver 2000 V1.1
       </title>
          <description>
             <p>
-This script allows blind astrometric solution solving by handling all the client communication to astrometry.net for the base solution, and then applying those results into the ImageSolver script to achieve a full WCS solution.
+You can now use Blind Solver with Linear Data (especially useful for those running it prior to stretching for SPCC purposes).  Added the New Instance blue triangle so you can drag that onto the desktop for drag and drop functionality.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-09-16T13:08:06.477Z" encoding="Base64">NkYXVWmLWigSrRFjzJy1vrX7Jz6XUlJVgTMpemN3bVPmW3Eb/atggjptcWEIBMjAqMnqxV0e8h6b2xIm0DqLBw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-09-19T13:07:30.359Z" encoding="Base64">y9zxA7K1ZaWeKCp90V0d2YJH7oWZztmR0kYevG2zuZpkLkqMDeGbKNVIN2vCPrOFxWy+6NBzdDrrKninIhNCCg==</Signature>
