@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts09.19.2024.zip" sha1="1f5252cd416bbb2d84a030a7521a7c9097a8dcf6" type="script" releaseDate="20240919">
+      <package fileName="SetiAstroScripts09.20.2024.zip" sha1="ab3c28fdaf45a262589456c3af2aa1f1c9e2bc53" type="script" releaseDate="20240920">
          <title>
-        Blind Solver 2000 V1.1
+        Blind Solver 2000 V1.2
       </title>
          <description>
             <p>
-You can now use Blind Solver with Linear Data (especially useful for those running it prior to stretching for SPCC purposes).  Added the New Instance blue triangle so you can drag that onto the desktop for drag and drop functionality.
+Blind Solver 2000 now detects if you have linear data or not and handles it automatically.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-09-19T13:07:30.359Z" encoding="Base64">y9zxA7K1ZaWeKCp90V0d2YJH7oWZztmR0kYevG2zuZpkLkqMDeGbKNVIN2vCPrOFxWy+6NBzdDrrKninIhNCCg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-09-21T00:12:32.666Z" encoding="Base64">hUB208cWDTMTwQDznHZmVu5lxydNX/AkXEU8wCJrl1gq6u6fGP1CQZpogCPqckmizWB/0abkutozWakmPnq8Dg==</Signature>
