@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts09.20.2024.zip" sha1="ab3c28fdaf45a262589456c3af2aa1f1c9e2bc53" type="script" releaseDate="20240920">
+      <package fileName="SetiAstroScripts09.22.2024.zip" sha1="7bcf295a31f38eec10453ba74328451b5b908789" type="script" releaseDate="20240922">
          <title>
-        Blind Solver 2000 V1.2
+        FAME V1.4
       </title>
          <description>
             <p>
-Blind Solver 2000 now detects if you have linear data or not and handles it automatically.
+Added zoom in and out buttons for those without mouse wheels.  Added a Gradient mask option.  Use the right mouse button to place a start and end point for the gradient for those wanting a gradient inside their shape.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-09-21T00:12:32.666Z" encoding="Base64">hUB208cWDTMTwQDznHZmVu5lxydNX/AkXEU8wCJrl1gq6u6fGP1CQZpogCPqckmizWB/0abkutozWakmPnq8Dg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-09-22T16:57:19.701Z" encoding="Base64">vnZbVfzuwlgPi5Mu0mbRFfK5AEPaocyevFQeJtEU/2/xWEJDMrfgY6f6odGzdhu6N0JmKmWe4QvMn8cIr22+CA==</Signature>
