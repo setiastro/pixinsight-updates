@@ -2,20 +2,20 @@
 <xri version="1.0">
    <description>
       <p>
-      This is the repository for PixInsight scripts by setiastro.com, featuring the NB to RGB Star Combination script Statistical Stretch script, Continuum Subtraction, and others.
+      This is the repository for PixInsight scripts by setiastro.com, Cosmic Clarity and others.
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts09.22.2024.zip" sha1="7bcf295a31f38eec10453ba74328451b5b908789" type="script" releaseDate="20240922">
+      <package fileName="SetiAstroScripts10.07.2024.zip" sha1="c1d89c193ef8d7b2b0f716da91821f5fea1e2693" type="script" releaseDate="20241007">
          <title>
-        FAME V1.4
+        Blind Solver 2000
       </title>
          <description>
             <p>
-Added zoom in and out buttons for those without mouse wheels.  Added a Gradient mask option.  Use the right mouse button to place a start and end point for the gradient for those wanting a gradient inside their shape.
+Fixed support to work on Linux machines
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-09-22T16:57:19.701Z" encoding="Base64">vnZbVfzuwlgPi5Mu0mbRFfK5AEPaocyevFQeJtEU/2/xWEJDMrfgY6f6odGzdhu6N0JmKmWe4QvMn8cIr22+CA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-10-07T20:25:23.136Z" encoding="Base64">xnoo0ULntjDtbmfJSB6yoXIR0uzcUvmz6FkVCi0IdRLQa6TdIavgaIIgfPU+kU3mTRMl7JkpAGViWqz2yVWhCw==</Signature>
