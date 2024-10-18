@@ -2,20 +2,20 @@
 <xri version="1.0">
    <description>
       <p>
-      This is the repository for PixInsight scripts by setiastro.com, Cosmic Clarity and others.
+      This is the repository for PixInsight scripts by setiastro.com.
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts10.07.2024.zip" sha1="c1d89c193ef8d7b2b0f716da91821f5fea1e2693" type="script" releaseDate="20241007">
+      <package fileName="SetiAstroScripts10.18.2024.zip" sha1="a5e9fbf78fdc96a014640a9daf4f4a8f6e5cebb7" type="script" releaseDate="20241018">
          <title>
-        Blind Solver 2000
+        Maintenance Update
       </title>
          <description>
             <p>
-Fixed support to work on Linux machines
+Minor Bug Fixes
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-10-07T20:25:23.136Z" encoding="Base64">xnoo0ULntjDtbmfJSB6yoXIR0uzcUvmz6FkVCi0IdRLQa6TdIavgaIIgfPU+kU3mTRMl7JkpAGViWqz2yVWhCw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-10-18T12:31:58.735Z" encoding="Base64">CJwOd7H2Y3wuzsOUB+sgmIF+StBwJi4Hq8HkyZHDe1cEGIvLCvJ2x+4EFd8JqqdpFlHeQ7ExwpawRlHDUaqtAA==</Signature>
