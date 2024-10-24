@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts10.18.2024.zip" sha1="a5e9fbf78fdc96a014640a9daf4f4a8f6e5cebb7" type="script" releaseDate="20241018">
+      <package fileName="SetiAstroScripts10.24.2024.zip" sha1="d346bd8fc204c8867c292413b06e6b36126e1d63" type="script" releaseDate="20241024">
          <title>
-        Maintenance Update
+        FAMEv1.5
       </title>
          <description>
             <p>
-Minor Bug Fixes
+Fixed issue where gradient mask type was not generating the appropriate gradient.  You can now use the Right Click mouse button to define start and end points in your shape and use the Gradient Mask type checkbox to fill that shape with a gradient.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-10-18T12:31:58.735Z" encoding="Base64">CJwOd7H2Y3wuzsOUB+sgmIF+StBwJi4Hq8HkyZHDe1cEGIvLCvJ2x+4EFd8JqqdpFlHeQ7ExwpawRlHDUaqtAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-10-24T14:14:42.347Z" encoding="Base64">VSHhXW1JyQ+5ZU63IAEzw3oQQnDPwqh4CKyaN7jczrdZfYEnXF/cPV/jcXzVwHdmpmDz0L7SipazmsNAcX8/BA==</Signature>
