@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts10.24.2024.zip" sha1="d346bd8fc204c8867c292413b06e6b36126e1d63" type="script" releaseDate="20241024">
+      <package fileName="SetiAstroScripts11.04.2024.zip" sha1="5cf4d6247a739c592aab387dd18aa8271640cce0" type="script" releaseDate="20241104">
          <title>
-        FAMEv1.5
+        SuperNova and Asteroid Hunter
       </title>
          <description>
             <p>
-Fixed issue where gradient mask type was not generating the appropriate gradient.  You can now use the Right Click mouse button to define start and end points in your shape and use the Gradient Mask type checkbox to fill that shape with a gradient.
+Script to search for anamolies in your image set.  Ensure all images are star aligned/registered first.  Choose your reference image and all your search images.  Pre-process and then search!  Any anamolies will be highlighted in your dataset.  Large items like satellite trails are excluded by the search.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-10-24T14:14:42.347Z" encoding="Base64">VSHhXW1JyQ+5ZU63IAEzw3oQQnDPwqh4CKyaN7jczrdZfYEnXF/cPV/jcXzVwHdmpmDz0L7SipazmsNAcX8/BA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-11-04T15:31:26.892Z" encoding="Base64">LI7JeOImK1Vv1KNaOEc+ylOYb6eBSICzboBHmiIbn+016pIOyrRL+WwCRdyzEqmAEjEbe+i31a+Hfn4WskUVAg==</Signature>
