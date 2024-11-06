@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts11.04.2024.zip" sha1="5cf4d6247a739c592aab387dd18aa8271640cce0" type="script" releaseDate="20241104">
+      <package fileName="SetiAstroScripts11.06.2024.zip" sha1="a7d9ffb47c1b15d1583d5bfba3fe986441827019" type="script" releaseDate="20241106">
          <title>
-        SuperNova and Asteroid Hunter
+        SuperNova and Asteroid Hunter V1.1
       </title>
          <description>
             <p>
-Script to search for anamolies in your image set.  Ensure all images are star aligned/registered first.  Choose your reference image and all your search images.  Pre-process and then search!  Any anamolies will be highlighted in your dataset.  Large items like satellite trails are excluded by the search.
+Added the option to perform cosmetic correction to your images prior to pre-processing.  Also combined everything into a single button click instead of having to click search after pre-processing was completed.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-11-04T15:31:26.892Z" encoding="Base64">LI7JeOImK1Vv1KNaOEc+ylOYb6eBSICzboBHmiIbn+016pIOyrRL+WwCRdyzEqmAEjEbe+i31a+Hfn4WskUVAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-11-06T12:50:43.576Z" encoding="Base64">5DG4AuBUfuNiywBzDzfxwqalE1sSuJkyNgn0Pha2sWdlgqcQAVOor2kqNJtB+YFXGaTox76vraw/3TllvgHbCw==</Signature>
