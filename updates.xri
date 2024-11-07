@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts11.06.2024.zip" sha1="a7d9ffb47c1b15d1583d5bfba3fe986441827019" type="script" releaseDate="20241106">
+      <package fileName="SetiAstroScripts11.07.2024.zip" sha1="e0f91bac5106e2c742e2f2b26d76731caa2c2dc6" type="script" releaseDate="20241107">
          <title>
-        SuperNova and Asteroid Hunter V1.1
+        Cosmic Clarity Denoise 
       </title>
          <description>
             <p>
-Added the option to perform cosmetic correction to your images prior to pre-processing.  Also combined everything into a single button click instead of having to click search after pre-processing was completed.
+Updated to be compatible with the latest Cosmic Clarity denoise version
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-11-06T12:50:43.576Z" encoding="Base64">5DG4AuBUfuNiywBzDzfxwqalE1sSuJkyNgn0Pha2sWdlgqcQAVOor2kqNJtB+YFXGaTox76vraw/3TllvgHbCw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-11-07T20:58:35.210Z" encoding="Base64">mNZXYGHP+ZR4RHyMy8kw6rF0EHaq+Vm4ugpVbs4ejLdfrSXsgl2Nx+eTem+gAdRpd4IvMjSwVZzRPU7U/LhaDA==</Signature>
