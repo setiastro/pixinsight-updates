@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts11.07.2024.zip" sha1="e0f91bac5106e2c742e2f2b26d76731caa2c2dc6" type="script" releaseDate="20241107">
+      <package fileName="SetiAstroScripts11.11.2024.zip" sha1="5094c1c51177532078586d97e9f7d7afbb04a1ac" type="script" releaseDate="20241111">
          <title>
-        Cosmic Clarity Denoise 
+        Supernova Asteroid Hunter V1.3
       </title>
          <description>
             <p>
-Updated to be compatible with the latest Cosmic Clarity denoise version
+Updated to make the anomalies detected much more visible.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-11-07T20:58:35.210Z" encoding="Base64">mNZXYGHP+ZR4RHyMy8kw6rF0EHaq+Vm4ugpVbs4ejLdfrSXsgl2Nx+eTem+gAdRpd4IvMjSwVZzRPU7U/LhaDA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-11-11T16:23:23.018Z" encoding="Base64">XhMo4iTffpqhdQTJSQbmVJQjhuLtrBYDpWQdp3QO2Oeay8i6UkN4re3IRC5fPOplm2TF/WW/InbBUOxEoixyAg==</Signature>
