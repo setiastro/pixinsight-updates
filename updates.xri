@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts11.11.2024.zip" sha1="5094c1c51177532078586d97e9f7d7afbb04a1ac" type="script" releaseDate="20241111">
+      <package fileName="SetiAstroScripts11.13.2024.zip" sha1="43d4a81c72cf78bc9a3db2217a9917c2c0d4e9d2" type="script" releaseDate="20241113">
          <title>
-        Supernova Asteroid Hunter V1.3
+        Statistical Stretch V1.7
       </title>
          <description>
             <p>
-Updated to make the anomalies detected much more visible.
+Upgraded to now show the RGB or K values as you mouse over the preview
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-11-11T16:23:23.018Z" encoding="Base64">XhMo4iTffpqhdQTJSQbmVJQjhuLtrBYDpWQdp3QO2Oeay8i6UkN4re3IRC5fPOplm2TF/WW/InbBUOxEoixyAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-11-13T21:36:17.631Z" encoding="Base64">z4VwbKUGxxcIYuDJlKnI7KMCuBfLOoogLcxEYVC+Ir+IEmHjFfw/uXeUXwfo3FvJrnRP+826LMQ5N2CmAk1zBA==</Signature>
