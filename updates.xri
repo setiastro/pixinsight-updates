@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts11.19.2024.zip" sha1="349289e009553e140a2a4b476cbe4ae84e5940a7" type="script" releaseDate="20241119">
+      <package fileName="SetiAstroScripts11.19.2024_1.zip" sha1="e8dca58f0613c9883f6a3fa85cdbde59a002e1e5" type="script" releaseDate="20241119">
          <title>
         AstroMark Signature Adder V1.3
       </title>
@@ -18,4 +18,4 @@ Added a Replacement blend mode.  Unlike Normal this directly overwrites the pixe
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-11-19T13:03:43.401Z" encoding="Base64">eNjf5uYLbnkdX/B8LJytzm/2EQGQRmMh14xeuWHfva0QtB8RMxPEVeR/t8UPvaDcXutLMnWgNzKHPM0UVYykDw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-11-19T13:18:45.403Z" encoding="Base64">mc/t1vFypDHZ55gnsrxtWM/m2rqhcRo7zg5J0UfpQ27QxvrIbp9DjbnwRbew22NShzE3veiej4dqbVaADKWRAA==</Signature>
