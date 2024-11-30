@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts11.19.2024_1.zip" sha1="e8dca58f0613c9883f6a3fa85cdbde59a002e1e5" type="script" releaseDate="20241119">
+      <package fileName="SetiAstroScripts11.29.2024.zip" sha1="7a74116adacb828e20725997a6930140b6f53bcc" type="script" releaseDate="20241129">
          <title>
-        AstroMark Signature Adder V1.3
+        Statistical Stretch V1.8
       </title>
          <description>
             <p>
-Added a Replacement blend mode.  Unlike Normal this directly overwrites the pixels without care of any alpha layer.  Alternate use if for making image inserts directly into your image since you can resize and rotate the insert.
+Added the ability to use the mouse wheel to zoom in and out.  Added Zoom IN and Out buttons.  Changed the Open Hand to standard arrow cursor so you can better see what pixel you are on for the value readout.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-11-19T13:18:45.403Z" encoding="Base64">mc/t1vFypDHZ55gnsrxtWM/m2rqhcRo7zg5J0UfpQ27QxvrIbp9DjbnwRbew22NShzE3veiej4dqbVaADKWRAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-11-30T04:00:41.401Z" encoding="Base64">yUX/9M1UjeH0kvEcOx/Q9BIZWi9oayf+1t4E6C4yXmCMP9Z+pJCeBfz6l3m6abnl0coWNPaq68yiYfJ0+Ac+AQ==</Signature>
