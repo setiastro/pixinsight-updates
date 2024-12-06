@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts11.29.2024.zip" sha1="7a74116adacb828e20725997a6930140b6f53bcc" type="script" releaseDate="20241129">
+      <package fileName="SetiAstroScripts12.06.2024.zip" sha1="cd5a4165783501a21a5abde53a3059de51f38015" type="script" releaseDate="20241206">
          <title>
-        Statistical Stretch V1.8
+        AstroMark Signature Adder V1.4
       </title>
          <description>
             <p>
-Added the ability to use the mouse wheel to zoom in and out.  Added Zoom IN and Out buttons.  Changed the Open Hand to standard arrow cursor so you can better see what pixel you are on for the value readout.
+Fixed an issues where dark pixels were seen as transparent.  Script now only recognizes alpha channels as the transparency control
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-11-30T04:00:41.401Z" encoding="Base64">yUX/9M1UjeH0kvEcOx/Q9BIZWi9oayf+1t4E6C4yXmCMP9Z+pJCeBfz6l3m6abnl0coWNPaq68yiYfJ0+Ac+AQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-12-06T19:37:26.898Z" encoding="Base64">KHcugUc4/TBrL9CN5iV8XYvR1gN6wgpzD1DlKMF1mo6F7vS+uk77xOuV8E6qRziQ2pS8sj2vkXTyBj7zC2jmDg==</Signature>
