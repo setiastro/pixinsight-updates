@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts12.06.2024.zip" sha1="cd5a4165783501a21a5abde53a3059de51f38015" type="script" releaseDate="20241206">
+      <package fileName="SetiAstroScripts12.17.2024.zip" sha1="dce5ca600935e76165cfcf8c4d71894774c518ad" type="script" releaseDate="20241217">
          <title>
-        AstroMark Signature Adder V1.4
+        AstroMark Signature and Insert Adder V1.4
       </title>
          <description>
             <p>
-Fixed an issues where dark pixels were seen as transparent.  Script now only recognizes alpha channels as the transparency control
+Now allows the user to add an optional border around their signature or image insert.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-12-06T19:37:26.898Z" encoding="Base64">KHcugUc4/TBrL9CN5iV8XYvR1gN6wgpzD1DlKMF1mo6F7vS+uk77xOuV8E6qRziQ2pS8sj2vkXTyBj7zC2jmDg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-12-17T14:53:03.263Z" encoding="Base64">dYfs50Y6Psl1jL09nVtz+C3zecykYHVxV/0ao99oAnRH0gWrQmALsu65eStsCMJUgBePf49mPDwuUXQkqNXVDQ==</Signature>
