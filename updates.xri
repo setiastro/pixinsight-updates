@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts12.17.2024.zip" sha1="dce5ca600935e76165cfcf8c4d71894774c518ad" type="script" releaseDate="20241217">
+      <package fileName="SetiAstroScripts12.30.2024" sha1="c6be2012022fb4139f2afd42f6291bba093f8392" type="script" releaseDate="20241230">
          <title>
-        AstroMark Signature and Insert Adder V1.4
+        Frequency Separator V1.0
       </title>
          <description>
             <p>
-Now allows the user to add an optional border around their signature or image insert.
+Script to perform frequency seperation on your image, creating a High Frequency and Low Frequency image that can be processed seperately.  Script then allows for the combination of those HF and LF images back into a single combined image.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-12-17T14:53:03.263Z" encoding="Base64">dYfs50Y6Psl1jL09nVtz+C3zecykYHVxV/0ao99oAnRH0gWrQmALsu65eStsCMJUgBePf49mPDwuUXQkqNXVDQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-12-30T17:42:05.432Z" encoding="Base64">QrAct1FkxUiH1ipvDTzED7NEYROrfM2j9dmCgFkd/VxCtAxhqYMiKJw0rU4dnY7PoCG5c8BgZr9qDBpLAd60Dw==</Signature>
