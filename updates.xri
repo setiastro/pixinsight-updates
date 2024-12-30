@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts12.30.2024.zip" sha1="c6be2012022fb4139f2afd42f6291bba093f8392" type="script" releaseDate="20241230">
+      <package fileName="SetiAstroScripts12.30.2024_1.zip" sha1="c6be2012022fb4139f2afd42f6291bba093f8392" type="script" releaseDate="20241230">
          <title>
         Frequency Separator V1.0
       </title>
@@ -18,4 +18,4 @@ Script to perform frequency seperation on your image, creating a High Frequency 
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-12-30T18:14:39.748Z" encoding="Base64">KXHiY1LzNhUtsWneTYGf3e7PWLUcYlTHd+/rFkLo/Ms9lNUJnsotvAJvTWJPv0dEpJ3e2fcwt6asT40qfpmqCg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2024-12-30T18:16:52.950Z" encoding="Base64">59LDxxndjlkgf+Fc3pYZfUilwNFf/Ftvri7ctD43eNzs5sM9tcH9kAXaqsGgwr2MAE4zXUKQ8I4YfobKFPsDAg==</Signature>
