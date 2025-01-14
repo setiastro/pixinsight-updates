@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts12.30.2024_1.zip" sha1="c6be2012022fb4139f2afd42f6291bba093f8392" type="script" releaseDate="20241230">
+      <package fileName="SetiAstroScripts01.14.2025.zip" sha1="c84cff416438243674e8c353b610ddd722d97914" type="script" releaseDate="20240114">
          <title>
-        Frequency Separator V1.0
+        Perfect Palette Picker V1.0
       </title>
          <description>
             <p>
-Script to perform frequency seperation on your image, creating a High Frequency and Low Frequency image that can be processed seperately.  Script then allows for the combination of those HF and LF images back into a single combined image.
+Introducing my Perfect Palette Picker, a script where you can load in your narrowband images or your image from a dual band filter, and it will generate 12 popular palettes for you to choose from.  Don&apos;t get stuck in the SHO rut and expand your color horizons!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2024-12-30T18:16:52.950Z" encoding="Base64">59LDxxndjlkgf+Fc3pYZfUilwNFf/Ftvri7ctD43eNzs5sM9tcH9kAXaqsGgwr2MAE4zXUKQ8I4YfobKFPsDAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2025-01-14T14:26:19.027Z" encoding="Base64">hnf9d9A2ptv3YbHBRb0x35IAK/mlxaXsDuS8F7GdFi67s5E5h2gzYKgpkSmIZ+ydmoPP9glYQX79199V9hl8Dw==</Signature>
