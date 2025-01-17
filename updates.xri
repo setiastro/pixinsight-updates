@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts01.14.2025.zip" sha1="c84cff416438243674e8c353b610ddd722d97914" type="script" releaseDate="20240114">
+      <package fileName="SetiAstroScripts01.17.2025.zip" sha1="9058a3be592b7a3cf9716e85096f927bb17efa20" type="script" releaseDate="20240117">
          <title>
-        Perfect Palette Picker V1.0
+        Perfect Palette Picker V1.2
       </title>
          <description>
             <p>
-Introducing my Perfect Palette Picker, a script where you can load in your narrowband images or your image from a dual band filter, and it will generate 12 popular palettes for you to choose from.  Don&apos;t get stuck in the SHO rut and expand your color horizons!
+Perfect Palette Picker now can handle both HaO3 and S2O3 dual narrowband filters for OSC users.  You can put one of either or both in and let it handle the channel extractions and combinations for you!  I fixed the bug where if you had an image with the suffix _R, _G, or _B that caused issues.  Feel free to use those suffices now.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2025-01-14T14:26:19.027Z" encoding="Base64">hnf9d9A2ptv3YbHBRb0x35IAK/mlxaXsDuS8F7GdFi67s5E5h2gzYKgpkSmIZ+ydmoPP9glYQX79199V9hl8Dw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2025-01-17T14:51:12.162Z" encoding="Base64">KVdoaQ2pwDdSDmSRU3BCW95F3gyaDgp315FWokCtQglu6A2O8rwe3eaokNXVX5htjs1bfG5Pb27YXQt3mAKzBw==</Signature>
