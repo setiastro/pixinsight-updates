@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts01.17.2025.zip" sha1="9058a3be592b7a3cf9716e85096f927bb17efa20" type="script" releaseDate="20240117">
+      <package fileName="SetiAstroScripts01.17.2025_1.zip" sha1="cdc7833580d003c66f2b3cc515fc973d58070ca5" type="script" releaseDate="20240117">
          <title>
         Perfect Palette Picker V1.2
       </title>
@@ -18,4 +18,4 @@ Perfect Palette Picker now can handle both HaO3 and S2O3 dual narrowband filters
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2025-01-17T14:51:12.162Z" encoding="Base64">KVdoaQ2pwDdSDmSRU3BCW95F3gyaDgp315FWokCtQglu6A2O8rwe3eaokNXVX5htjs1bfG5Pb27YXQt3mAKzBw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2025-01-17T21:33:52.965Z" encoding="Base64">LYi0qOcPZ/kpBb9+8nue5K5zy7BFgIBWLkRvAhlYQ3WVzebyIjT9vjUmD0bLmyGrAI3unCWlRh6LK+AL51O7BA==</Signature>
