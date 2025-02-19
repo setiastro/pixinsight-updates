@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts01.17.2025_1.zip" sha1="cdc7833580d003c66f2b3cc515fc973d58070ca5" type="script" releaseDate="20240117">
+      <package fileName="SetiAstroScripts02.19.2025.zip" sha1="e1ad39ad86296938ee9c8200a5b2f25b80e03989" type="script" releaseDate="20240219">
          <title>
-        Perfect Palette Picker V1.2
+        Blind Solver 2000 V2
       </title>
          <description>
             <p>
-Perfect Palette Picker now can handle both HaO3 and S2O3 dual narrowband filters for OSC users.  You can put one of either or both in and let it handle the channel extractions and combinations for you!  I fixed the bug where if you had an image with the suffix _R, _G, or _B that caused issues.  Feel free to use those suffices now.
+Incorporated ASTAP for Blind Solving.  Simply click the wrench icon to tell it where the astap folder is.  In windows it is probably c:/program files/astap.  Then when you hit blind solve it will use ASTAP first  If astap fails then it will move onto using astrometry.net.  This should greatly speed up the blind solving.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2025-01-17T21:33:52.965Z" encoding="Base64">LYi0qOcPZ/kpBb9+8nue5K5zy7BFgIBWLkRvAhlYQ3WVzebyIjT9vjUmD0bLmyGrAI3unCWlRh6LK+AL51O7BA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2025-02-19T20:19:50.872Z" encoding="Base64">c66rL9rUsy0dNRgUIS+0n5z7bf5pw6iX70u+UurXSlYV9n858rIdr5dNYBk6LllPH9kNzJ7lDAf4M+mKLxwlBQ==</Signature>
