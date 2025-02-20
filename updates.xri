@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts02.19.2025.zip" sha1="e1ad39ad86296938ee9c8200a5b2f25b80e03989" type="script" releaseDate="20240219">
+      <package fileName="SetiAstroScripts02.19.2025_1.zip" sha1="a10061934d3531eea4e267ef4d8bed5268fc20fd" type="script" releaseDate="20240219">
          <title>
         Blind Solver 2000 V2
       </title>
@@ -18,4 +18,4 @@ Incorporated ASTAP for Blind Solving.  Simply click the wrench icon to tell it w
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2025-02-19T20:19:50.872Z" encoding="Base64">c66rL9rUsy0dNRgUIS+0n5z7bf5pw6iX70u+UurXSlYV9n858rIdr5dNYBk6LllPH9kNzJ7lDAf4M+mKLxwlBQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2025-02-20T02:15:40.043Z" encoding="Base64">y6cdgBWlwv4e8E/vrCLopGleKHw3S+WnpsjWTa2poMVDmRRbO4VUdjyf3UaiNhXa0TX6gLwj82o/X4wjTxTbBw==</Signature>
