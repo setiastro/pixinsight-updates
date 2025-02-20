@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts02.19.2025_1.zip" sha1="a10061934d3531eea4e267ef4d8bed5268fc20fd" type="script" releaseDate="20240219">
+      <package fileName="SetiAstroScripts02.19.2025_2.zip" sha1="562201d0e979f994f26e23d0bcfeb99f46983bd3" type="script" releaseDate="20240219">
          <title>
-        Blind Solver 2000 V2
+        Blind Solver 2000 V2.1
       </title>
          <description>
             <p>
-Incorporated ASTAP for Blind Solving.  Simply click the wrench icon to tell it where the astap folder is.  In windows it is probably c:/program files/astap.  Then when you hit blind solve it will use ASTAP first  If astap fails then it will move onto using astrometry.net.  This should greatly speed up the blind solving.
+Incorporated ASTAP for Blind Solving.  Simply click the wrench icon to tell it where the astap folder is.  In windows it is probably c:/program files/astap.  Then when you hit blind solve it will use ASTAP first  If astap fails then it will move onto using astrometry.net.  This should greatly speed up the blind solving. If after 3 minutes PI doesnt see the solution it will investiage the astap ini file and print any reason why astap failed
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2025-02-20T02:15:40.043Z" encoding="Base64">y6cdgBWlwv4e8E/vrCLopGleKHw3S+WnpsjWTa2poMVDmRRbO4VUdjyf3UaiNhXa0TX6gLwj82o/X4wjTxTbBw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2025-02-20T03:22:59.781Z" encoding="Base64">95ps8hi6Z00YFXAbTssYQzAfoyNErFBRyU6GPUeKBihniTnwjxyeGG9td0nrU3EBaFIplVe8nQk6q4I3MB5RDQ==</Signature>
