@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts04.16.2025.zip" sha1="88c8f6c55e236e349fa2becaf61b9b9320f2a0b5" type="script" releaseDate="20240416">
+      <package fileName="SetiAstroScripts04.16.2025_1.zip" sha1="a1857b632c8f7e7fc316fe73b870704267b7ca41" type="script" releaseDate="20240416">
          <title>
         Star Spike Tool V1.0
       </title>
@@ -18,4 +18,4 @@ Add realistic diffraction patterns and star spikes to your stars.  Add how many 
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2025-04-16T18:00:13.584Z" encoding="Base64">twsc8ts+sowUh50pnAtvnvCe+0ghv90NvISF7Stsj8W6Uc1T4SAVUOJAXefJHk6qhCoxhjiOzXwzJI7SljBIAQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2025-04-16T19:26:52.938Z" encoding="Base64">qDBu4un+efG0TIfYIQLqVVXuffHd3B6VC1j/kz+y4/t0uzuMFpyY1T+bhBcmqK07cclaK2iFc45QVsQd+YwFCA==</Signature>
