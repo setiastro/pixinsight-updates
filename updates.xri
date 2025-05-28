@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts04.16.2025_1.zip" sha1="a1857b632c8f7e7fc316fe73b870704267b7ca41" type="script" releaseDate="20240416">
+      <package fileName="SetiAstroScripts05.28.2025.zip" sha1="6888c1aae11b960d63020e1560e8075b6d33f99e" type="script" releaseDate="20250528">
          <title>
-        Star Spike Tool V1.0
+        Blind Solver 2000
       </title>
          <description>
             <p>
-Add realistic diffraction patterns and star spikes to your stars.  Add how many vanes, 2 for a normal newt design, aperture side, objective obstruction, vane width, rotation angle and more to add spikes to your stars!
+Thank you to Astrobomb1 for the update to more efficiently call the ASTAP process and utilize settings objects instead of temp files!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2025-04-16T19:26:52.938Z" encoding="Base64">qDBu4un+efG0TIfYIQLqVVXuffHd3B6VC1j/kz+y4/t0uzuMFpyY1T+bhBcmqK07cclaK2iFc45QVsQd+YwFCA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2025-05-28T20:52:31.662Z" encoding="Base64">igoQs3W5sOAY6Rn+oO6bWO2jsQ8sQHjlEDRLkj6DUmWNCK7UyuyTVqIbtvhN2Ck3mW4mlLFK0ydEhPZih49rBg==</Signature>
