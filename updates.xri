@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts05.28.2025.zip" sha1="6888c1aae11b960d63020e1560e8075b6d33f99e" type="script" releaseDate="20250528">
+      <package fileName="SetiAstroScripts08.27.2025.zip" sha1="f3294f5a2bf606ddb7103619be4ddb8e9291a72d" type="script" releaseDate="20250528">
          <title>
-        Blind Solver 2000
+        Find My Background
       </title>
          <description>
             <p>
-Thank you to Astrobomb1 for the update to more efficiently call the ASTAP process and utilize settings objects instead of temp files!
+Vastly speed up Find My Background when running it normally from the UI.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2025-05-28T20:52:31.662Z" encoding="Base64">igoQs3W5sOAY6Rn+oO6bWO2jsQ8sQHjlEDRLkj6DUmWNCK7UyuyTVqIbtvhN2Ck3mW4mlLFK0ydEhPZih49rBg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2025-08-27T17:47:28.111Z" encoding="Base64">TCT5b98j1aD2Ho8sB8Hi/ZVNEoxxOHGlNabwBr/w0i7JDBM+z4PkNGJAIc9rUytvL2Q07nlPCJSNtMQZQZ9XDA==</Signature>
