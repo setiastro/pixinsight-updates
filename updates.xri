@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts08.27.2025.zip" sha1="f3294f5a2bf606ddb7103619be4ddb8e9291a72d" type="script" releaseDate="20250528">
+      <package fileName="SetiAstroScripts01.05.2026.zip" sha1="2c8c24fdc68e8ee557c78f2efd0c134fa544d594" type="script" releaseDate="20260105">
          <title>
-        Find My Background
+        Statistical Stretch 2.0
       </title>
          <description>
             <p>
-Vastly speed up Find My Background when running it normally from the UI.
+Update to Statistical Stretch to include: BP, HDR, Luma.  This expands onto the normal functions like Linked v Unlinked, Target Median, Curves boost, etc.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2025-08-27T17:47:28.111Z" encoding="Base64">TCT5b98j1aD2Ho8sB8Hi/ZVNEoxxOHGlNabwBr/w0i7JDBM+z4PkNGJAIc9rUytvL2Q07nlPCJSNtMQZQZ9XDA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-01-05T17:23:26.694Z" encoding="Base64">QYsTUAk80DNZf3VCQRnu2HiOP3oiAjw87arCq4GuzLl49/utfRr/hyjU1yOHOiDkMTWR89ijbriLmxbP3zFGBA==</Signature>
