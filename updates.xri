@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts01.05.2026_1.zip" sha1="d85ba5b7790f371349621713aa9ec57f458f8e36" type="script" releaseDate="20260105">
+      <package fileName="SetiAstroScripts01.06.2026.zip" sha1="65605172635a627ecbd93043f1ef8a76b9b4f3ac" type="script" releaseDate="20260106">
          <title>
-        Statistical Stretch 2.1
+        Statistical Stretch 2.2
       </title>
          <description>
             <p>
-Update to Statistical Stretch to include: BP, HDR, Luma.  This expands onto the normal functions like Linked v Unlinked, Target Median, Curves boost, etc.  Instruction box moved to a button to help those with lower resolution monitors.
+Update to Statistical Stretch to include: BP, HDR, Luma.  This expands onto the normal functions like Linked v Unlinked, Target Median, Curves boost, etc.  V2.1 Instruction box moved to a button to help those with lower resolution monitors. V2.2 Fixed issue to show dialog properly when running from a script icon.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-01-05T23:54:01.817Z" encoding="Base64">DzIgei7X8f1soveAD4xyjtPplE2iO4Am9tDsk32aI5YqiOWktWWSbBR3L6javqVdxlZNhXyk9IkSzx97+97NCQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-01-06T21:55:24.055Z" encoding="Base64">NtYh4cX3r6MZffA2ZkmQOrUMuHuI0c/MDEp0SDP7ujyLqzN8nfTy5DFVYfzXgbO3gvArSfbwvw0K92akUnhxDg==</Signature>
