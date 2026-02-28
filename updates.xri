@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts02.26.2026.zip" sha1="328239dc50d95cb9b1b6e30096b187c2b9fcb0f2" type="script" releaseDate="20260227">
+      <package fileName="SetiAstroScripts02.28.2026.zip" sha1="56ba61faa0646da3f51fd938a5e9919897ef957a" type="script" releaseDate="20260228">
          <title>
-        Cosmic Clarity - SASpro V1.1 AI4
+        Cosmic Clarity - SASpro V1.2 AI4
       </title>
          <description>
             <p>
-V1.1 Allows temp stretch to be applied prior to neural net processing and exposes the timeout wait variables in case you need to wait longer for your system.  V1.0 New Script to run Cosmic Clarity AI4.  This version of Cosmic Clarity is now integrated with SASpro and is no longer standalone.  You will need to get SASpro in order to use the vastly more powerful AI4 for Cosmic Clarity Sharpening and Denoising. 
+V1.2 Added Aberration Removal via RA&apos;s Aberration Removal neural net and hardened the file retrieval process (required SASpro V1.10.9.post3 or newer) V1.1 Allows temp stretch to be applied prior to neural net processing and exposes the timeout wait variables in case you need to wait longer for your system.  V1.0 New Script to run Cosmic Clarity AI4.  This version of Cosmic Clarity is now integrated with SASpro and is no longer standalone.  You will need to get SASpro in order to use the vastly more powerful AI4 for Cosmic Clarity Sharpening and Denoising. 
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-02-27T21:04:34.459Z" encoding="Base64">fJ48lTv2H0+QohyJ3fi/puqup/f7E8YEmE/Iw1/aXew/AN1jQ0iM2jHSCOIV6CY6sNY31jm22uyUecMxqPWmCA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-02-28T16:32:41.922Z" encoding="Base64">JEJT7jcmIg1YRQUQ4aHHfkn1QpKbaihHpIi7CtfIT3Z+ZP21ax7gTQFdX4A13KtG+Xp5TUKCcGVMTOmCJ1ZGCA==</Signature>
