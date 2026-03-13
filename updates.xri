@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts02.28.2026.zip" sha1="56ba61faa0646da3f51fd938a5e9919897ef957a" type="script" releaseDate="20260228">
+      <package fileName="SetiAstroScripts03.13.2026.zip" sha1="ad23df04e1ce334d96b3424c2cd381cc1bedb578" type="script" releaseDate="20260313">
          <title>
-        Cosmic Clarity - SASpro V1.2 AI4
+        Cosmic Clarity - SASpro V1.3 AI4
       </title>
          <description>
             <p>
-V1.2 Added Aberration Removal via RA&apos;s Aberration Removal neural net and hardened the file retrieval process (required SASpro V1.10.9.post3 or newer) V1.1 Allows temp stretch to be applied prior to neural net processing and exposes the timeout wait variables in case you need to wait longer for your system.  V1.0 New Script to run Cosmic Clarity AI4.  This version of Cosmic Clarity is now integrated with SASpro and is no longer standalone.  You will need to get SASpro in order to use the vastly more powerful AI4 for Cosmic Clarity Sharpening and Denoising. 
+V1.3  You can now call DarkStar AI4 from SASpro to use the much more advanced AI4 star removal tool  V1.2 Added Aberration Removal via RA&apos;s Aberration Removal neural net and hardened the file retrieval process (required SASpro V1.10.9.post3 or newer) V1.1 Allows temp stretch to be applied prior to neural net processing and exposes the timeout wait variables in case you need to wait longer for your system.  V1.0 New Script to run Cosmic Clarity AI4.  This version of Cosmic Clarity is now integrated with SASpro and is no longer standalone.  You will need to get SASpro in order to use the vastly more powerful AI4 for Cosmic Clarity Sharpening and Denoising. 
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-02-28T16:32:41.922Z" encoding="Base64">JEJT7jcmIg1YRQUQ4aHHfkn1QpKbaihHpIi7CtfIT3Z+ZP21ax7gTQFdX4A13KtG+Xp5TUKCcGVMTOmCJ1ZGCA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-03-13T20:46:52.162Z" encoding="Base64">xrGj1BLsZWbiCcioQ7E0f7u915+eADWWtHR8kbxnumoMg57dW/dINVmtizc2uloNgUZU0eoY6AGyfmRpnbozBw==</Signature>
