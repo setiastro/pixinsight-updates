@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SetiAstroScripts03.13.2026.zip" sha1="ad23df04e1ce334d96b3424c2cd381cc1bedb578" type="script" releaseDate="20260313">
+      <package fileName="SetiAstroScripts04.08.2026.zip" sha1="a21783a326094956f1383ccb287bf64b2499179a" type="script" releaseDate="20260408">
          <title>
-        Cosmic Clarity - SASpro V1.3 AI4
+        Cosmic Clarity - SASpro V1.4 AI4
       </title>
          <description>
             <p>
-V1.3  You can now call DarkStar AI4 from SASpro to use the much more advanced AI4 star removal tool  V1.2 Added Aberration Removal via RA&apos;s Aberration Removal neural net and hardened the file retrieval process (required SASpro V1.10.9.post3 or newer) V1.1 Allows temp stretch to be applied prior to neural net processing and exposes the timeout wait variables in case you need to wait longer for your system.  V1.0 New Script to run Cosmic Clarity AI4.  This version of Cosmic Clarity is now integrated with SASpro and is no longer standalone.  You will need to get SASpro in order to use the vastly more powerful AI4 for Cosmic Clarity Sharpening and Denoising. 
+V1.4 Denoise now can call the Walking Noise Denoiser movel  V1.3  You can now call DarkStar AI4 from SASpro to use the much more advanced AI4 star removal tool  V1.2 Added Aberration Removal via RA&apos;s Aberration Removal neural net and hardened the file retrieval process (required SASpro V1.10.9.post3 or newer) V1.1 Allows temp stretch to be applied prior to neural net processing and exposes the timeout wait variables in case you need to wait longer for your system.  V1.0 New Script to run Cosmic Clarity AI4.  This version of Cosmic Clarity is now integrated with SASpro and is no longer standalone.  You will need to get SASpro in order to use the vastly more powerful AI4 for Cosmic Clarity Sharpening and Denoising. 
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-03-13T20:46:52.162Z" encoding="Base64">xrGj1BLsZWbiCcioQ7E0f7u915+eADWWtHR8kbxnumoMg57dW/dINVmtizc2uloNgUZU0eoY6AGyfmRpnbozBw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-04-08T14:28:19.571Z" encoding="Base64">O9hiEVi9mPnCIZ5HctA7tqo6hKy7R/dzvPve3etW58ID+a6HlR8XJkMROtpGXr9yYRalsiVQz4h6qn2GVTrtCA==</Signature>
