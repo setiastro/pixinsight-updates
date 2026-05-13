@@ -5,17 +5,17 @@
       This is the repository for PixInsight scripts by setiastro.com.
     </p>
    </description>
-   <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts05.12.2026.zip" sha1="152d683001dbe48a72ee69d51837487abbac2de9" type="script" releaseDate="20260512">
+   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
+      <package fileName="SetiAstroScripts04.08.2026.zip" sha1="a21783a326094956f1383ccb287bf64b2499179a" type="script" releaseDate="20260408">
          <title>
-        Update for 1.9.4 PJSR
+        Cosmic Clarity - SASpro V1.4 AI4
       </title>
          <description>
             <p>
-Update to run in 1.9.4 PJSR spidermonkey patch environment.
+V1.4 Denoise now can call the Walking Noise Denoiser movel  V1.3  You can now call DarkStar AI4 from SASpro to use the much more advanced AI4 star removal tool  V1.2 Added Aberration Removal via RA&apos;s Aberration Removal neural net and hardened the file retrieval process (required SASpro V1.10.9.post3 or newer) V1.1 Allows temp stretch to be applied prior to neural net processing and exposes the timeout wait variables in case you need to wait longer for your system.  V1.0 New Script to run Cosmic Clarity AI4.  This version of Cosmic Clarity is now integrated with SASpro and is no longer standalone.  You will need to get SASpro in order to use the vastly more powerful AI4 for Cosmic Clarity Sharpening and Denoising. 
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-12T21:18:20.301Z" encoding="Base64">lqY1zOx3e8UHIL3wjTDei+2ZkQE92VK+Lzx7v3z1KFSTNQh1qlprBWwOgN83JmE0G5e99AP1EUxEMSpWcW8rAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-04-08T14:28:19.571Z" encoding="Base64">O9hiEVi9mPnCIZ5HctA7tqo6hKy7R/dzvPve3etW58ID+a6HlR8XJkMROtpGXr9yYRalsiVQz4h6qn2GVTrtCA==</Signature>
