@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.3">
-      <package fileName="SetiAstroScripts04.08.2026.zip" sha1="a21783a326094956f1383ccb287bf64b2499179a" type="script" releaseDate="20260408">
+      <package fileName="SetiAstroScripts07.23.2026.zip" sha1="8af5ee08ff9150c539c36f037c113c1e40679a3f" type="script" releaseDate="20260723">
          <title>
-        Cosmic Clarity - SASpro V1.4 AI4
+        Perfect Palette Picker V1.3
       </title>
          <description>
             <p>
-V1.4 Denoise now can call the Walking Noise Denoiser movel  V1.3  You can now call DarkStar AI4 from SASpro to use the much more advanced AI4 star removal tool  V1.2 Added Aberration Removal via RA&apos;s Aberration Removal neural net and hardened the file retrieval process (required SASpro V1.10.9.post3 or newer) V1.1 Allows temp stretch to be applied prior to neural net processing and exposes the timeout wait variables in case you need to wait longer for your system.  V1.0 New Script to run Cosmic Clarity AI4.  This version of Cosmic Clarity is now integrated with SASpro and is no longer standalone.  You will need to get SASpro in order to use the vastly more powerful AI4 for Cosmic Clarity Sharpening and Denoising. 
+Updated to include new &quot;standard&quot; palettes and a brand new Dynamic Inverse palette that for bicolor images provides reds, golds, and yellows and for tricolor images offers a cross channel realistic style blend.  Information on the math can be found on my wiki: https://github.com/setiastro/setiastrosuitepro/wiki/Tools:-Perfect-Palette-Picker
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-13T11:44:02.612Z" encoding="Base64">X3vLLOKQwTAe8n1ibMu2hFGj+k0y0TOHCNAFmDOaNQP/WcHaqARAh5w95ABvNKQqkefDdsRB0Vu9HF65kLSiAw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-07-23T12:41:44.077Z" encoding="Base64">hyBQlRygUFbk++YePQ90/TLsjWFvmv5Zh3+M3KiJlFJJ5d0zIy16nFT7PNekLT+U6qSZj4ait7M5vxiKPtm5DQ==</Signature>
