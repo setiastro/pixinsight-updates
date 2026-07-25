@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.3">
-      <package fileName="SetiAstroScripts07.23.2026.zip" sha1="8af5ee08ff9150c539c36f037c113c1e40679a3f" type="script" releaseDate="20260723">
+      <package fileName="SetiAstroScripts07.25.2026.zip" sha1="2e658852b2e0f1ad7eaf0ca7da14853bfdbecb8a" type="script" releaseDate="20260725">
          <title>
-        Perfect Palette Picker V1.3
+        AutoDBE
       </title>
          <description>
             <p>
-Updated to include new &quot;standard&quot; palettes and a brand new Dynamic Inverse palette that for bicolor images provides reds, golds, and yellows and for tricolor images offers a cross channel realistic style blend.  Information on the math can be found on my wiki: https://github.com/setiastro/setiastrosuitepro/wiki/Tools:-Perfect-Palette-Picker
+AutoDBE for PI 1.9.3 had an issue.  Reuploading the correct AutoDBE for PI 1.9.3
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-07-23T12:41:44.077Z" encoding="Base64">hyBQlRygUFbk++YePQ90/TLsjWFvmv5Zh3+M3KiJlFJJ5d0zIy16nFT7PNekLT+U6qSZj4ait7M5vxiKPtm5DQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-07-25T21:13:29.909Z" encoding="Base64">J9rxemAQ59LyxZSWb1ElVMtM6A8AcvNWXSapiFl3sahsctZyaPgCaaQ/R1DhRTm8djqUrx+13snclUv/JNw8Dw==</Signature>
