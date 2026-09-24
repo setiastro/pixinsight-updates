@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.3">
-      <package fileName="SetiAstroScripts07.25.2026.zip" sha1="2e658852b2e0f1ad7eaf0ca7da14853bfdbecb8a" type="script" releaseDate="20260725">
+      <package fileName="SetiAstroScripts07.25.2026_193.zip" sha1="2e658852b2e0f1ad7eaf0ca7da14853bfdbecb8a" type="script" releaseDate="20260725">
          <title>
         AutoDBE
       </title>
          <description>
             <p>
-AutoDBE for PI 1.9.3 had an issue.  Reuploading the correct AutoDBE for PI 1.9.3
+NEW REPOSITORY URL: https://updates.setiastro.com   AutoDBE for PI 1.9.3 had an issue.  Reuploading the correct AutoDBE for PI 1.9.3
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-07-25T21:13:29.909Z" encoding="Base64">J9rxemAQ59LyxZSWb1ElVMtM6A8AcvNWXSapiFl3sahsctZyaPgCaaQ/R1DhRTm8djqUrx+13snclUv/JNw8Dw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-09-24T18:07:40.654Z" encoding="Base64">6NiZz1fhH502pPJ+XmyrLackCCOEHPXo+UgFuJQB8TYqaMIHWfVqx8/Lqbbjr5zkCuPyZG015Oi4fLbVyr1NCw==</Signature>
